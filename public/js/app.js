@@ -58,6 +58,8 @@ func_arr[0] = {
     };
 
     if (input_ !== "") {
+      reset_for_intervals();
+
       let ifed_ = mtcBanglaStr.includes(Array.from(input_)[0]);
 
       if (!ifed_) {
@@ -320,7 +322,6 @@ const common_stop_f = () => {
     visibility: "hidden",
   });
 
-  reset_for_intervals();
   clearInterval(interVal_);
 };
 //-common large function's reset
@@ -330,13 +331,7 @@ const reset_for_intervals = () => {
   glob_i = 0;
 };
 //--common functions for interval
-const common_F_for_intervals = async (
-  findBanglaAyahs,
-  i,
-  isInc,
-  isInc_1,
-  e
-) => {
+const common_F_for_intervals = async (findBanglaAyahs, i, e) => {
   let i_ = i + 1;
 
   if (i < totalAyah && isInc_1 < i_) {
@@ -395,6 +390,8 @@ const common_F_for_intervals = async (
           if (findBanglaAyahs ? true : data[Number(it) - 1] !== undefined) {
             if (isInc < i_) {
               isInc = i_;
+
+              console.log(i_);
 
               let filtered = surah_Index.filter((it) => {
                 return it.no === i_;
@@ -471,12 +468,12 @@ const findAayahs = async (e) => {
 
     if (alt_e === 0) {
       const interVal_f = () => {
-        common_F_for_intervals(false, glob_i, isInc, isInc_1, e);
+        common_F_for_intervals(false, glob_i, e);
       };
 
       interVal_ = setInterval(interVal_f, getInterVal);
     } else {
-      common_F_for_intervals(false, alt_e - 1, isInc, isInc_1, e);
+      common_F_for_intervals(false, alt_e - 1, e);
       common_stop_f();
     }
   }
@@ -490,12 +487,12 @@ const findAyahsBangla = (e) => {
 
     if (alt_e === 0) {
       const interVal_f = () => {
-        common_F_for_intervals(true, glob_i, isInc, isInc_1, e);
+        common_F_for_intervals(true, glob_i, e);
       };
 
       interVal_ = setInterval(interVal_f, getInterVal * banglaAyahSearchSPD);
     } else {
-      common_F_for_intervals(true, alt_e - 1, isInc, isInc_1, e);
+      common_F_for_intervals(true, alt_e - 1, e);
       common_stop_f();
     }
   }
