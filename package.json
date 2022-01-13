@@ -1,0 +1,19 @@
+{
+  "name": "searchquranayahs",
+  "version": "1.0.0",
+  "description": "insha Allah we can search quran ayahs using this.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afsinur/quran-search-ayahs-nodejs.git"
+  },
+  "author": "Afsinur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afsinur/quran-search-ayahs-nodejs/issues"
+  },
+  "homepage": "https://github.com/Afsinur/quran-search-ayahs-nodejs#readme"
+}
