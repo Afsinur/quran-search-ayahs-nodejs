@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+    "bangla": "আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি?",
+    "english": "Have We not expanded thee thy breast?-"
+  },
+  {
+    "id": "2",
+    "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+    "bangla": "আমি লাঘব করেছি আপনার বোঝা,",
+    "english": "And removed from thee thy burden"
+  },
+  {
+    "id": "3",
+    "arabic": "الَّذِي أَنقَضَ ظَهْرَكَ",
+    "bangla": "যা ছিল আপনার জন্যে অতিশয় দুঃসহ।",
+    "english": "The which did gall thy back?-"
+  },
+  {
+    "id": "4",
+    "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+    "bangla": "আমি আপনার আলোচনাকে সমুচ্চ করেছি।",
+    "english": "And raised high the esteem (in which) thou (art held)?"
+  },
+  {
+    "id": "5",
+    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "bangla": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+    "english": "So, verily, with every difficulty, there is relief:"
+  },
+  {
+    "id": "6",
+    "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "bangla": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+    "english": "Verily, with every difficulty there is relief."
+  },
+  {
+    "id": "7",
+    "arabic": "فَإِذَا فَرَغْتَ فَانصَبْ",
+    "bangla": "অতএব, যখন অবসর পান পরিশ্রম করুন।",
+    "english": "Therefore, when thou art free (from thine immediate task), still labour hard,"
+  },
+  {
+    "id": "8",
+    "arabic": "وَإِلَى رَبِّكَ فَارْغَبْ",
+    "bangla": "এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন।",
+    "english": "And to thy Lord turn (all) thy attention."
+  }
+]

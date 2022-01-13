@@ -1,0 +1,1142 @@
+[
+  {
+    "type": " মাক্কী",
+    "ayahs": "৭",
+    "no": 1,
+    "bangla": "১.আল-ফাতিহা",
+    "english": "Al-Fatiha",
+    "arabic": "سورةالفاتحة",
+    "meanBangla": "সূচনা",
+    "meanEnglish": "The Opening"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "২৮৬",
+    "no": 2,
+    "bangla": "২.আল-বাকারা",
+    "english": "Al-Baqara",
+    "arabic": "سورةالبقرة",
+    "meanBangla": "বকনা-বাছুর",
+    "meanEnglish": "The Calf, The Cow"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "২০০",
+    "no": 3,
+    "bangla": "৩.আলে-ইমরান",
+    "english": "Al-i-Imran",
+    "arabic": "سورةآلعمران",
+    "meanBangla": "ইমরানের পরিবার",
+    "meanEnglish": "The Family of Imraan, The House of ʿImrān"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১৭৬",
+    "no": 4,
+    "bangla": "৪.আন-নিসা",
+    "english": "An-Nisa",
+    "arabic": "سورةالنساء",
+    "meanBangla": "মহিলা",
+    "meanEnglish": "The Women"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১২০",
+    "no": 5,
+    "bangla": "৫.আল-মায়েদা",
+    "english": "Al-Ma'ida",
+    "arabic": "سورةالمائدة",
+    "meanBangla": "খাদ্য পরিবেশিত টেবিল",
+    "meanEnglish": "The Food, The Repast, The Table"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১৬৫",
+    "no": 6,
+    "bangla": "৬.আল-আন'আম",
+    "english": "Al-An'am",
+    "arabic": "سورةالأنعام",
+    "meanBangla": "গৃৃহপালিত পশু",
+    "meanEnglish": "The Cattle"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২০৬",
+    "no": 7,
+    "bangla": "৭.আল-আ'রাফ",
+    "english": "Al-A'raf",
+    "arabic": "سورةالأعراف",
+    "meanBangla": "উচু স্থানসমূহ",
+    "meanEnglish": "The Heights, The Faculty of Discernment"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৭৫",
+    "no": 8,
+    "bangla": "৮.আল-আনফাল",
+    "english": "Al-Anfal",
+    "arabic": "سورةالأنفال",
+    "meanBangla": "যুদ্ধে-লব্ধ ধনসম্পদ",
+    "meanEnglish": "The Spoils of War"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১২৯",
+    "no": 9,
+    "bangla": "৯.আত-তাওবা",
+    "english": "At-Tawba",
+    "arabic": "سورةالتوبة",
+    "meanBangla": "অনুশোচনা",
+    "meanEnglish": "The Repentance"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১০৯",
+    "no": 10,
+    "bangla": "১০.ইউনুস",
+    "english": "Yunus",
+    "arabic": "سورةيونس",
+    "meanBangla": "নবী ইউনুস (আ.)",
+    "meanEnglish": "Prophet Yunus"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১২৩",
+    "no": 11,
+    "bangla": "১১.হূদ",
+    "english": "Hud",
+    "arabic": "سورةهود",
+    "meanBangla": "নবী হুদ",
+    "meanEnglish": "Prophet Hud"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১১১",
+    "no": 12,
+    "bangla": "১২.ইউসুফ",
+    "english": "Yusuf",
+    "arabic": "سورةيوسف",
+    "meanBangla": "নবী ইউসুফ (আ.)",
+    "meanEnglish": "Prophet Yusuf"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৪৩",
+    "no": 13,
+    "bangla": "১৩.আর-রাদ",
+    "english": "Ar-Ra'd",
+    "arabic": "سورةالرعد",
+    "meanBangla": "বজ্রনাদ",
+    "meanEnglish": "The Thunder"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫২",
+    "no": 14,
+    "bangla": "১৪.ইবরাহীম",
+    "english": "Ibrahim",
+    "arabic": "سورةابراهيم",
+    "meanBangla": "নবী ইব্রাহিম (আ.)",
+    "meanEnglish": "Prophet Ibrahim"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৯৯",
+    "no": 15,
+    "bangla": "১৫.আল-হিজর",
+    "english": "Al-Hijr",
+    "arabic": "سورةالحجر",
+    "meanBangla": "পাথুরে পাহাড়",
+    "meanEnglish": "The Rocky Tract, The Stoneland, The Rock City, Al-Hijr"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১২৮",
+    "no": 16,
+    "bangla": "১৬.আন-নাহাল",
+    "english": "An-Nahl",
+    "arabic": "سورةالنحل",
+    "meanBangla": "মৌমাছি",
+    "meanEnglish": "The Honey Bees, The Bee"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১১১",
+    "no": 17,
+    "bangla": "১৭.আল-ইসরা(বনী-ইসরাঈল)",
+    "english": "Al-Isra",
+    "arabic": "سورةالإسراء",
+    "meanBangla": "রাতের সফর (ইসরায়েলের সন্তানগণ [ইহুদী জাতি])",
+    "meanEnglish": "The Night Journey"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১১০",
+    "no": 18,
+    "bangla": "১৮.আল-কাহফ",
+    "english": "Al-Kahf",
+    "arabic": "سورةالكهف",
+    "meanBangla": "গুহা",
+    "meanEnglish": "The Cave"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৯৮",
+    "no": 19,
+    "bangla": "১৯.মারইয়াম",
+    "english": "Maryam",
+    "arabic": "سورةمريم",
+    "meanBangla": "মারিয়াম [নবী ঈসা (আ.) এর মা]",
+    "meanEnglish": "Maryam (Mother of Prophet Isa)"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১৩৫",
+    "no": 20,
+    "bangla": "২০.ত্ব-হা",
+    "english": "Ta-Ha",
+    "arabic": "سورةطه",
+    "meanBangla": "ত্বোয়া-হা",
+    "meanEnglish": "Ṭāʾ Hāʾ"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১১২",
+    "no": 21,
+    "bangla": "২১.আল-আম্বিয়া",
+    "english": "Al-Anbiya",
+    "arabic": "سورةالأنبياء",
+    "meanBangla": "নবীগণ",
+    "meanEnglish": "The Prophets"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৭৮",
+    "no": 22,
+    "bangla": "২২.আল-হজ্জ",
+    "english": "Al-Hajj",
+    "arabic": "سورةالحج",
+    "meanBangla": "হজ্জ (হজ)",
+    "meanEnglish": "The Pilgrimage, The Hajj"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১১৮",
+    "no": 23,
+    "bangla": "২৩.আল-মুমিনুন",
+    "english": "Al-Mu'minun",
+    "arabic": "سورةالمؤمنون",
+    "meanBangla": "বিশ্বাসীগণ",
+    "meanEnglish": "The Believers"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৬৪",
+    "no": 24,
+    "bangla": "২৪.আন-নূর",
+    "english": "An-Nur",
+    "arabic": "سورةالنور",
+    "meanBangla": "আলো,জ্যোতি",
+    "meanEnglish": "The Light"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৭৭",
+    "no": 25,
+    "bangla": "২৫.আল-ফুরকান",
+    "english": "Al-Furqan",
+    "arabic": "سورةالفرقان",
+    "meanBangla": "সত্য মিথ্যার পার্থক্য নির্ধারণকারী গ্রন্থ",
+    "meanEnglish": "The Criterion, The Standard, The Standard of True and False"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২২৭",
+    "no": 26,
+    "bangla": "২৬.আশ-শুআ'রা",
+    "english": "Ash-Shu'ara",
+    "arabic": "سورةالشعراء",
+    "meanBangla": "কবিগণ",
+    "meanEnglish": "The Poets"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৯৩",
+    "no": 27,
+    "bangla": "২৭.আন-নামাল",
+    "english": "An-Naml",
+    "arabic": "سورةالنمل",
+    "meanBangla": "পিপীলিকা (পিঁপড়া)",
+    "meanEnglish": "The Ant, The Ants"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৮৮",
+    "no": 28,
+    "bangla": "২৮.আল-কাসাস",
+    "english": "Al-Qasas",
+    "arabic": "سورةالقصص",
+    "meanBangla": "ঘটনা,কাহিনী",
+    "meanEnglish": "The Narrations, The Stories, The Story"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৬৯",
+    "no": 29,
+    "bangla": "২৯.আল-আনকাবূত",
+    "english": "Al-Ankabut",
+    "arabic": "سورةالعنكبوت",
+    "meanBangla": "মাকড়সা",
+    "meanEnglish": "The Spider"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৬০",
+    "no": 30,
+    "bangla": "৩০.আর-রুম",
+    "english": "Ar-Rum",
+    "arabic": "سورةالروم",
+    "meanBangla": "রোমান জাতি",
+    "meanEnglish": "Rome, Byzantium"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৩৪",
+    "no": 31,
+    "bangla": "৩১.লুকমান",
+    "english": "Luqman",
+    "arabic": "سورةلقمان",
+    "meanBangla": "একজন জ্ঞানী ব্যক্তি",
+    "meanEnglish": "Luqman"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৩০",
+    "no": 32,
+    "bangla": "৩২.আস-সাজদাহ",
+    "english": "As-Sajda",
+    "arabic": "سورةالسجدة",
+    "meanBangla": "সিজদাহ",
+    "meanEnglish": "The Prostration, Worship, Adoration"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৭৩",
+    "no": 33,
+    "bangla": "৩৩.আল-আহযাব",
+    "english": "Al-Ahzab",
+    "arabic": "سورةالأحزاب",
+    "meanBangla": "জোট",
+    "meanEnglish": "The Clans, The Confederates, The Combined Forces"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫৪",
+    "no": 34,
+    "bangla": "৩৪.সাবা",
+    "english": "Saba",
+    "arabic": "سورةسبإ",
+    "meanBangla": "রানী সাবা",
+    "meanEnglish": "Queen Saba"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪৫",
+    "no": 35,
+    "bangla": "৩৫.ফাতির",
+    "english": "Fatir",
+    "arabic": "سورةفاطر",
+    "meanBangla": "আদি স্রষ্টা",
+    "meanEnglish": "The Originator"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৮৩",
+    "no": 36,
+    "bangla": "৩৬.ইয়াসীন",
+    "english": "Ya-Sin",
+    "arabic": "سورةيس",
+    "meanBangla": "ইয়াসীন",
+    "meanEnglish": "Ya-Sin"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১৮২",
+    "no": 37,
+    "bangla": "৩৭.আস-সাফফাত",
+    "english": "As-Saffat",
+    "arabic": "سورةالصافات",
+    "meanBangla": "সারিবদ্ধভাবে দাড়ানো",
+    "meanEnglish": "Those Who Set The Ranks, Drawn Up In Ranks, Those Ranged in Ranks"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৮৮",
+    "no": 38,
+    "bangla": "৩৮.সোয়াদ",
+    "english": "Ṣād",
+    "arabic": "سورةص",
+    "meanBangla": "আরবি বর্ণ",
+    "meanEnglish": "Ṣād"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৭৫",
+    "no": 39,
+    "bangla": "৩৯.আয-যুমার",
+    "english": "Az-Zumar",
+    "arabic": "سورةالزمر",
+    "meanBangla": "দল-বদ্ধ জনতা",
+    "meanEnglish": "The Crowds, The Troops, Throngs"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৮৫",
+    "no": 40,
+    "bangla": "৪০.গাফির(আলমু'মিন)",
+    "english": "Ghafir",
+    "arabic": "سورةغافر",
+    "meanBangla": "পরম ক্ষমাশীল (বিশ্বাসী)",
+    "meanEnglish": "The Forgiver (Allah), Forgiving"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫৪",
+    "no": 41,
+    "bangla": "৪১.হা-মীমআস-সাজদা(ফুসসিলাত)",
+    "english": "Fussilat",
+    "arabic": "سورةفصلت",
+    "meanBangla": "সুস্পষ্ট বিবরণ",
+    "meanEnglish": "Expounded, Explained In Detail, Clearly Spelled Out"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫৩",
+    "no": 42,
+    "bangla": "৪২.আশ-শূরা",
+    "english": "Ash-Shura",
+    "arabic": "سورةالشورى",
+    "meanBangla": "পরামর্শ",
+    "meanEnglish": "The Consultation"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৮৯",
+    "no": 43,
+    "bangla": "৪৩.আয-যুখরুফ",
+    "english": "Az-Zukhruf",
+    "arabic": "سورةالزخرف",
+    "meanBangla": "সোনাদানা",
+    "meanEnglish": "The Gold Adornments, The Ornaments of Gold, Luxury, Gold"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫৯",
+    "no": 44,
+    "bangla": "৪৪.আদ-দুখান",
+    "english": "Ad-Dukhan",
+    "arabic": "سورةالدخان",
+    "meanBangla": "ধোঁয়া",
+    "meanEnglish": "The Smoke"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৩৭",
+    "no": 45,
+    "bangla": "৪৫.আল-জাসিয়া",
+    "english": "Al-Jathiya",
+    "arabic": "سورةالجاثية",
+    "meanBangla": "নতজানু",
+    "meanEnglish": "The Kneeling Down, Crouching"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৩৫",
+    "no": 46,
+    "bangla": "৪৬.আল-আহকাফ",
+    "english": "Al-Ahqaf",
+    "arabic": "سورةالأحقاف",
+    "meanBangla": "বালুর পাহাড়",
+    "meanEnglish": "Winding Sand-tracts, The Dunes, The Sand-Dunes"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৩৮",
+    "no": 47,
+    "bangla": "৪৭.মুহাম্মাদ",
+    "english": "Muhammad",
+    "arabic": "سورةمحمد",
+    "meanBangla": "মুহাম্মদ (সা.)",
+    "meanEnglish": "Muhammad (Peace be upon him)"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "২৯",
+    "no": 48,
+    "bangla": "৪৮.আল-ফাতহ",
+    "english": "Al-Fath",
+    "arabic": "سورةالفتح",
+    "meanBangla": "বিজয় (মক্কা বিজয়)",
+    "meanEnglish": "The Victory, Conquest"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১৮",
+    "no": 49,
+    "bangla": "৪৯.আল-হুজুরাত",
+    "english": "Al-Hujurat",
+    "arabic": "سورةالحجرات",
+    "meanBangla": "বাসগৃহসমূূহ",
+    "meanEnglish": "The Private Apartments, The Inner Apartments"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪৫",
+    "no": 50,
+    "bangla": "৫০.কাফ",
+    "english": "Qaf",
+    "arabic": "سورةق",
+    "meanBangla": "আরবি বর্ণ ক্বাফ",
+    "meanEnglish": "Q̈āf"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৬০",
+    "no": 51,
+    "bangla": "৫১.আয-যারিয়াত",
+    "english": "Adh-Dhariyat",
+    "arabic": "سورةالذاريات",
+    "meanBangla": "বিক্ষেপকারী বাতাস",
+    "meanEnglish": "The Wind That Scatter, The Winnowing Winds, The Dust-Scattering Winds"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪৯",
+    "no": 52,
+    "bangla": "৫২.আত-তূর",
+    "english": "At-Tur",
+    "arabic": "سورةالطور",
+    "meanBangla": "তূর পাহাড়",
+    "meanEnglish": "The Mount, Mount Sinai"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৬২",
+    "no": 53,
+    "bangla": "৫৩.আন-নাজম",
+    "english": "An-Najm",
+    "arabic": "سورةالنجم",
+    "meanBangla": "তারা",
+    "meanEnglish": "The Star, The Unfolding"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫৫",
+    "no": 54,
+    "bangla": "৫৪.আল-কামার",
+    "english": "Al-Qamar",
+    "arabic": "سورةالقمر",
+    "meanBangla": "চন্দ্র",
+    "meanEnglish": "The Moon"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৭৮",
+    "no": 55,
+    "bangla": "৫৫.আর-রাহমান",
+    "english": "Ar-Rahman",
+    "arabic": "سورةالرحمن",
+    "meanBangla": "অনন্ত করুণাময়",
+    "meanEnglish": "The Most Merciful, The Most Gracious"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৯৬",
+    "no": 56,
+    "bangla": "৫৬.আল-ওয়াকিয়া",
+    "english": "Al-Waqi'a",
+    "arabic": "سورةالواقعة",
+    "meanBangla": "নিশ্চিত ঘটনা",
+    "meanEnglish": "The Inevitable, The Event, That Which Must Come to Pass"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "২৯",
+    "no": 57,
+    "bangla": "৫৭.আল-হাদীদ",
+    "english": "Al-Hadid",
+    "arabic": "سورةالحديد",
+    "meanBangla": "লোহা",
+    "meanEnglish": "The Iron"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "২২",
+    "no": 58,
+    "bangla": "৫৮.আল-মুজাদালা",
+    "english": "Al-Mujadila",
+    "arabic": "سورةالمجادلة",
+    "meanBangla": "অনুযোগকারিণী",
+    "meanEnglish": "The Pleading, The Pleading Woman"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "২৪",
+    "no": 59,
+    "bangla": "৫৯.আল-হাশর",
+    "english": "Al-Hashr",
+    "arabic": "سورةالحشر",
+    "meanBangla": "সমাবেশ",
+    "meanEnglish": "The Mustering, The Gathering, Exile, Banishment"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১৩",
+    "no": 60,
+    "bangla": "৬০.আল-মুমতাহিনা",
+    "english": "Al-Mumtahina",
+    "arabic": "سورةالممتحنة",
+    "meanBangla": "নারী, যাকে পরীক্ষা করা হবে",
+    "meanEnglish": "The Examined One, She That Is To Be Examined"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১৪",
+    "no": 61,
+    "bangla": "৬১.আস-সফ",
+    "english": "As-Saff",
+    "arabic": "سورةالصف",
+    "meanBangla": "সারবন্দী সৈন্যদল",
+    "meanEnglish": "The Ranks, Battle Array"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১১",
+    "no": 62,
+    "bangla": "৬২.আল-জুমু'আ",
+    "english": "Al-Jumu'a",
+    "arabic": "سورةالجمعة",
+    "meanBangla": "সম্মেলন/শুক্রবার",
+    "meanEnglish": "Congregation, Friday"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১১",
+    "no": 63,
+    "bangla": "৬৩.আল-মুনাফিকূন",
+    "english": "Al-Munafiqun",
+    "arabic": "سورةالمنافقون",
+    "meanBangla": "কপট বিশ্বাসীগণ",
+    "meanEnglish": "The Hypocrites"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১৮",
+    "no": 64,
+    "bangla": "৬৪.আত-তাগাবুন",
+    "english": "At-Taghabun",
+    "arabic": "سورةالتغابن",
+    "meanBangla": "মোহ অপসারণ",
+    "meanEnglish": "The Cheating, The Mutual Disillusion, The Mutual Loss and Gain, Loss and Gain"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১২",
+    "no": 65,
+    "bangla": "৬৫.আত-ত্বলাক্ব",
+    "english": "At-Talaq",
+    "arabic": "سورةالطلاق",
+    "meanBangla": "তালাক,বন্ধনমুক্তি",
+    "meanEnglish": "Divorce"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "১২",
+    "no": 66,
+    "bangla": "৬৬.আত-তাহরীম",
+    "english": "At-Tahrim",
+    "arabic": "سورةالتحريم",
+    "meanBangla": "নিষিদ্ধকরণ",
+    "meanEnglish": "The Prohibition"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৩০",
+    "no": 67,
+    "bangla": "৬৭.আল-মুলক",
+    "english": "Al-Mulk",
+    "arabic": "سورةالملك",
+    "meanBangla": "সার্বভৌম কর্তৃত্ব",
+    "meanEnglish": "The Dominion, Sovereignty, Control"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫২",
+    "no": 68,
+    "bangla": "৬৮.আল-কলম",
+    "english": "Al-Qalam",
+    "arabic": "سورةالقلم",
+    "meanBangla": "কলম",
+    "meanEnglish": "The Pen"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫২",
+    "no": 69,
+    "bangla": "৬৯.আল-হাক্কাহ",
+    "english": "Al-Haqqa",
+    "arabic": "سورةالحاقة",
+    "meanBangla": "নিশ্চিত সত্য",
+    "meanEnglish": "The Sure Reality, The Laying-Bare of the Truth"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪৪",
+    "no": 70,
+    "bangla": "৭০.আল-মা'আরিজ",
+    "english": "Al-Ma'arij",
+    "arabic": "سورةالمعارج",
+    "meanBangla": "উন্নয়নের সোপান",
+    "meanEnglish": "The Ways of Ascent, The Ascending Stairways"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২৮",
+    "no": 71,
+    "bangla": "৭১.নূহ",
+    "english": "Nuh",
+    "arabic": "سورةنوح",
+    "meanBangla": "নূহ (আ.)",
+    "meanEnglish": "Prophet Nuh"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২৮",
+    "no": 72,
+    "bangla": "৭২.আল-জ্বিন",
+    "english": "Al-Jinn",
+    "arabic": "سورةالجن",
+    "meanBangla": "জ্বিন সম্প্রদায়",
+    "meanEnglish": "The Jinn, The Spirits, The Unseen Beings"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২০",
+    "no": 73,
+    "bangla": "৭৩.আল-মুযযাম্মিল",
+    "english": "Al-Muzzammil",
+    "arabic": "سورةالمزمل",
+    "meanBangla": "বস্ত্র আচ্ছাদনকারী",
+    "meanEnglish": "The Enfolded One, The Enshrouded One, Bundled Up, The Enwrapped One"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫৬",
+    "no": 74,
+    "bangla": "৭৪.আল-মুদ্দাসসির",
+    "english": "Al-Muddathir",
+    "arabic": "سورةالمدثر",
+    "meanBangla": "",
+    "meanEnglish": ""
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪০",
+    "no": 75,
+    "bangla": "৭৫.আল-ক্বিয়ামাহ",
+    "english": "Al-Qiyama",
+    "arabic": "سورةالقيامة",
+    "meanBangla": "পুনরুত্থান",
+    "meanEnglish": "Resurrection, The Day of Resurrection, Rising Of The Dead"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৩১",
+    "no": 76,
+    "bangla": "৭৬.আল-ইনসান(আদ-দাহর)",
+    "english": "Al-Insan",
+    "arabic": "سورةالانسان",
+    "meanBangla": "মানুষ",
+    "meanEnglish": "The Human, Man"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫০",
+    "no": 77,
+    "bangla": "৭৭.আল-মুরসালাত",
+    "english": "Al-Mursalat",
+    "arabic": "سورةالمرسلات",
+    "meanBangla": "প্রেরিত পুরুষবৃন্দ",
+    "meanEnglish": "Those Sent Forth, The Emissaries, Winds Sent Forth"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪০",
+    "no": 78,
+    "bangla": "৭৮.আন-নাবা",
+    "english": "An-Naba'",
+    "arabic": "سورةالنبإ",
+    "meanBangla": "মহাসংবাদ",
+    "meanEnglish": "The Great News, The Announcement, The Tiding"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪৬",
+    "no": 79,
+    "bangla": "৭৯.আন-নাযি'আত",
+    "english": "An-Nazi'at",
+    "arabic": "سورةالنازعات",
+    "meanBangla": "প্রচেষ্টাকারী",
+    "meanEnglish": "Those Who Tear Out, Those Who Drag Forth, Soul-snatchers, Those That Rise"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪২",
+    "no": 80,
+    "bangla": "৮০.আবাসা",
+    "english": "Abasa",
+    "arabic": "سورةعبس",
+    "meanBangla": "তিনি ভ্রুকুটি করলেন",
+    "meanEnglish": "He Frowned"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২৯",
+    "no": 81,
+    "bangla": "৮১.আত-তাকভীর",
+    "english": "At-Takwir",
+    "arabic": "سورةالتكوير",
+    "meanBangla": "অন্ধকারাচ্ছন্ন",
+    "meanEnglish": "The Folding Up, The Overthrowing, Shrouding in Darkness"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১৯",
+    "no": 82,
+    "bangla": "৮২.আল-ইনফিতার",
+    "english": "Al-Infitar",
+    "arabic": "سورةالإنفطار",
+    "meanBangla": "বিদীর্ণ করা",
+    "meanEnglish": "The Cleaving Asunder, Bursting Apart"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৩৬",
+    "no": 83,
+    "bangla": "৮৩.আল-মুতাফফিফীন",
+    "english": "Al-Mutaffifin",
+    "arabic": "سورةالمطففين",
+    "meanBangla": "প্রতারকগণ",
+    "meanEnglish": "The Dealers in Fraud, Defrauding, The Cheats, Those Who Give Short Measure"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২৫",
+    "no": 84,
+    "bangla": "৮৪.আল-ইনশিকাক",
+    "english": "Al-Inshiqaq",
+    "arabic": "سورةالإنشقاق",
+    "meanBangla": "খন্ড-বিখন্ড করণ",
+    "meanEnglish": "The Rending Asunder, The Sundering, Splitting Open, The Splitting Asunder"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২২",
+    "no": 85,
+    "bangla": "৮৫.আল-বুরুজ",
+    "english": "Al-Buruj",
+    "arabic": "سورةالبروج",
+    "meanBangla": "নক্ষত্রপুঞ্জ",
+    "meanEnglish": "The Mansions Of The Stars, The Constellations, The Great Constellations"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১৭",
+    "no": 86,
+    "bangla": "৮৬.আত-তারিক",
+    "english": "At-Tariq",
+    "arabic": "سورةالطارق",
+    "meanBangla": "রাতের আগন্তুক",
+    "meanEnglish": "The Night-Visitant, The Morning Star, The Nightcomer, That Which Comes in the Night"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১৯",
+    "no": 87,
+    "bangla": "৮৭.আল-আ'লা",
+    "english": "Al-A'la",
+    "arabic": "سورةالأعلى",
+    "meanBangla": "সর্বোর্ধ্ব",
+    "meanEnglish": "The Most High, The All-Highest, Glory To Your Lord In The Highest"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২৬",
+    "no": 88,
+    "bangla": "৮৮.আল-গাশিয়া",
+    "english": "Al-Ghashiya",
+    "arabic": "سورةالغاشية",
+    "meanBangla": "বিহ্বলকর ঘটনা",
+    "meanEnglish": "The Overwhelming Event, The Overshadowing Event, The Pall"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৩০",
+    "no": 89,
+    "bangla": "৮৯.আল-ফাজর",
+    "english": "Al-Fajr",
+    "arabic": "سورةالفجر",
+    "meanBangla": "ভোরবেলা",
+    "meanEnglish": "The Break of Day, The Daybreak, The Dawn"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২০",
+    "no": 90,
+    "bangla": "৯০.আল-বালাদ",
+    "english": "Al-Balad",
+    "arabic": "سورةالبلد",
+    "meanBangla": "নগর/শহর",
+    "meanEnglish": "The City, The Land"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১৫",
+    "no": 91,
+    "bangla": "৯১.আশ-শামস",
+    "english": "Ash-Shams",
+    "arabic": "سورةالشمس",
+    "meanBangla": "সূর্য্য",
+    "meanEnglish": "The Sun"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "২১",
+    "no": 92,
+    "bangla": "৯২.আল-লাইল",
+    "english": "Al-Lail",
+    "arabic": "سورةالليل",
+    "meanBangla": "রাত্রি",
+    "meanEnglish": "The Night"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১১",
+    "no": 93,
+    "bangla": "৯৩.আদ-দুহা",
+    "english": "Ad-Dhuha",
+    "arabic": "سورةالضحى",
+    "meanBangla": "পূর্বাহ্নের সূর্যকিরণ",
+    "meanEnglish": "The Glorious Morning Light, The Forenoon, Morning Hours, Morning Bright, The Bright Morning Hours"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৮",
+    "no": 94,
+    "bangla": "৯৪.আল-ইনশিরাহ",
+    "english": "Ash-Sharh",
+    "arabic": "سورةالشرح",
+    "meanBangla": "বক্ষ প্রশস্তকরণ",
+    "meanEnglish": "The Expansion of Breast, Solace, Consolation, Relief, Patient, The Opening-Up of the Heart"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৮",
+    "no": 95,
+    "bangla": "৯৫.আত-ত্বীন",
+    "english": "At-Tin",
+    "arabic": "سورةالتين",
+    "meanBangla": "ত্বীন ফল",
+    "meanEnglish": "The Fig Tree, The Fig"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১৯",
+    "no": 96,
+    "bangla": "৯৬.আল-আলাক",
+    "english": "Al-Alaq",
+    "arabic": "سورةالعلق",
+    "meanBangla": "রক্তপিন্ড",
+    "meanEnglish": "The Clinging Clot, Clot of Blood, The Germ-Cell"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫",
+    "no": 97,
+    "bangla": "৯৭.আল-কাদর",
+    "english": "Al-Qadr",
+    "arabic": "سورةالقدر",
+    "meanBangla": "পরিমাণ",
+    "meanEnglish": "The Night of Honor, The Night of Decree, Power, Fate, Destiny"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৮",
+    "no": 98,
+    "bangla": "৯৮.আল-বায়্যিনাহ",
+    "english": "Al-Bayyina",
+    "arabic": "سورةالبينة",
+    "meanBangla": "সুস্পষ্ট প্রমাণ",
+    "meanEnglish": "The Clear Evidence, The Evidence of the Truth"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৮",
+    "no": 99,
+    "bangla": "৯৯.আয-যিলযাল",
+    "english": "Az-Zalzala",
+    "arabic": "سورةالزلزلة",
+    "meanBangla": "ভূমিকম্প",
+    "meanEnglish": "The Earthquake"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১১",
+    "no": 100,
+    "bangla": "১০০.আল-আদিয়াত",
+    "english": "Al-Adiyat",
+    "arabic": "سورةالعاديات",
+    "meanBangla": "অভিযানকারী",
+    "meanEnglish": "The Courser, The Chargers, The War Horse"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "১১",
+    "no": 101,
+    "bangla": "১০১.আল-কারি'আ",
+    "english": "Al-Qari'a",
+    "arabic": "سورةالقارعة",
+    "meanBangla": "মহাসংকট",
+    "meanEnglish": "The Striking Hour, The Great Calamity, The Stunning Blow, The Sudden Calamity"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৮",
+    "no": 102,
+    "bangla": "১০২.আত-তাকাসুর",
+    "english": "At-Takathur",
+    "arabic": "سورةالتكاثر",
+    "meanBangla": "প্রাচুর্য্যের প্রতিযোগিতা",
+    "meanEnglish": "The Piling Up, Rivalry in World Increase, Competition, Greed for More and More"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৩",
+    "no": 103,
+    "bangla": "১০৩.আল-আসর",
+    "english": "Al-Asr",
+    "arabic": "سورةالعصر",
+    "meanBangla": "অপরাহ্ন",
+    "meanEnglish": "The Time, The Declining Day, The Epoch, The Flight of Time"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৯",
+    "no": 104,
+    "bangla": "১০৪.আল-হুমাযা",
+    "english": "Al-Humaza",
+    "arabic": "سورةالهمزة",
+    "meanBangla": "পরনিন্দাকারী",
+    "meanEnglish": "The Scandalmonger, The Traducer, The Gossipmonger, The Slanderer"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫",
+    "no": 105,
+    "bangla": "১০৫.আল-ফীল",
+    "english": "Al-Fil",
+    "arabic": "سورةالفيل",
+    "meanBangla": "হাতি",
+    "meanEnglish": "The Elephant"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪",
+    "no": 106,
+    "bangla": "১০৬.আল-কুরাইশ",
+    "english": "Quraysh",
+    "arabic": "سورةقريش",
+    "meanBangla": "কুরাইশ গোত্র",
+    "meanEnglish": "The Quraysh"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৭",
+    "no": 107,
+    "bangla": "১০৭.আল-মাঊন",
+    "english": "Al-Ma'un",
+    "arabic": "سورةالماعون",
+    "meanBangla": "সাহায্য-সহায়তা",
+    "meanEnglish": "The Neighbourly Assistance, Small Kindnesses, Almsgiving, Assistance"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৩",
+    "no": 108,
+    "bangla": "১০৮.আল-কাউসার",
+    "english": "Al-Kawthar",
+    "arabic": "سورةالكوثر",
+    "meanBangla": "প্রাচুর্য",
+    "meanEnglish": "Abundance, Plenty, Good in Abundance"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৬",
+    "no": 109,
+    "bangla": "১০৯.কাফিরুন",
+    "english": "Al-Kafirun",
+    "arabic": "سورةالكافرون",
+    "meanBangla": "অস্বীকারকারীগণ",
+    "meanEnglish": "The Disbelievers, The Kuffar, Those Who Deny the Truth"
+  },
+  {
+    "type": " মাদানী",
+    "ayahs": "৩",
+    "no": 110,
+    "bangla": "১১০.আন-নাসর",
+    "english": "An-Nasr",
+    "arabic": "سورةالنصر",
+    "meanBangla": "বিজয়,সাহায্য",
+    "meanEnglish": "The Help, Divine Support, Victory, Succour"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫",
+    "no": 111,
+    "bangla": "১১১.আল-মাসাদ(লাহাব)",
+    "english": "Al-Masad",
+    "arabic": "سورةالمسد",
+    "meanBangla": "জ্বলন্ত অঙ্গার",
+    "meanEnglish": "The Plaited Rope, The Palm Fibre, The Twisted Strands"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৪",
+    "no": 112,
+    "bangla": "১১২.আল-ইখলাস",
+    "english": "Al-Ikhlas",
+    "arabic": "سورةالإخلاص",
+    "meanBangla": "একনিষ্ঠতা",
+    "meanEnglish": "Purity of Faith, The Fidelity, The Declaration of [God's] Perfection"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৫",
+    "no": 113,
+    "bangla": "১১৩.আল-ফালাক",
+    "english": "Al-Falaq",
+    "arabic": "سورةالفلق",
+    "meanBangla": "নিশিভোর",
+    "meanEnglish": "The Daybreak, Dawn, The Rising Dawn"
+  },
+  {
+    "type": " মাক্কী",
+    "ayahs": "৬",
+    "no": 114,
+    "bangla": "১১৪.আন-নাস",
+    "english": "An-Nas",
+    "arabic": "سورةالناس",
+    "meanBangla": "মানবজাতি",
+    "meanEnglish": "Mankind, Men"
+  }
+]

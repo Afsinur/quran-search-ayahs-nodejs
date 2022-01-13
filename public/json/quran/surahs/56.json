@@ -1,0 +1,578 @@
+[
+  {
+    "id": "1",
+    "arabic": "إِذَا وَقَعَتِ الْوَاقِعَةُ",
+    "bangla": "যখন কিয়ামতের ঘটনা ঘটবে,",
+    "english": "When the Event inevitable cometh to pass,"
+  },
+  {
+    "id": "2",
+    "arabic": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+    "bangla": "যার বাস্তবতায় কোন সংশয় নেই।",
+    "english": "Then will no (soul) entertain falsehood concerning its coming."
+  },
+  {
+    "id": "3",
+    "arabic": "خَافِضَةٌ رَّافِعَةٌ",
+    "bangla": "এটা নীচু করে দেবে, সমুন্নত করে দেবে।",
+    "english": "(Many) will it bring low; (many) will it exalt;"
+  },
+  {
+    "id": "4",
+    "arabic": "إِذَا رُجَّتِ الْأَرْضُ رَجًّا",
+    "bangla": "যখন প্রবলভাবে প্রকম্পিত হবে পৃথিবী।",
+    "english": "When the earth shall be shaken to its depths,"
+  },
+  {
+    "id": "5",
+    "arabic": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+    "bangla": "এবং পর্বতমালা ভেঙ্গে চুরমার হয়ে যাবে।",
+    "english": "And the mountains shall be crumbled to atoms,"
+  },
+  {
+    "id": "6",
+    "arabic": "فَكَانَتْ هَبَاءً مُّنبَثًّا",
+    "bangla": "অতঃপর তা হয়ে যাবে উৎক্ষিপ্ত ধূলিকণা।",
+    "english": "Becoming dust scattered abroad,"
+  },
+  {
+    "id": "7",
+    "arabic": "وَكُنتُمْ أَزْوَاجًا ثَلَاثَةً",
+    "bangla": "এবং তোমরা তিনভাবে বিভক্ত হয়ে পড়বে।",
+    "english": "And ye shall be sorted out into three classes."
+  },
+  {
+    "id": "8",
+    "arabic": "فَأَصْحَابُ الْمَيْمَنَةِ مَا أَصْحَابُ الْمَيْمَنَةِ",
+    "bangla": "যারা ডান দিকে, কত ভাগ্যবান তারা।",
+    "english": "Then (there will be) the Companions of the Right Hand;- What will be the Companions of the Right Hand?"
+  },
+  {
+    "id": "9",
+    "arabic": "وَأَصْحَابُ الْمَشْأَمَةِ مَا أَصْحَابُ الْمَشْأَمَةِ",
+    "bangla": "এবং যারা বামদিকে, কত হতভাগা তারা।",
+    "english": "And the Companions of the Left Hand,- what will be the Companions of the Left Hand?"
+  },
+  {
+    "id": "10",
+    "arabic": "وَالسَّابِقُونَ السَّابِقُونَ",
+    "bangla": "অগ্রবর্তীগণ তো অগ্রবর্তীই।",
+    "english": "And those Foremost (in Faith) will be Foremost (in the Hereafter)."
+  },
+  {
+    "id": "11",
+    "arabic": "أُولَـٰئِكَ الْمُقَرَّبُونَ",
+    "bangla": "তারাই নৈকট্যশীল,",
+    "english": "These will be those Nearest to Allah."
+  },
+  {
+    "id": "12",
+    "arabic": "فِي جَنَّاتِ النَّعِيمِ",
+    "bangla": "অবদানের উদ্যানসমূহে,",
+    "english": "In Gardens of Bliss:"
+  },
+  {
+    "id": "13",
+    "arabic": "ثُلَّةٌ مِّنَ الْأَوَّلِينَ",
+    "bangla": "তারা একদল পূর্ববর্তীদের মধ্য থেকে।",
+    "english": "A number of people from those of old,"
+  },
+  {
+    "id": "14",
+    "arabic": "وَقَلِيلٌ مِّنَ الْآخِرِينَ",
+    "bangla": "এবং অল্পসংখ্যক পরবর্তীদের মধ্যে থেকে।",
+    "english": "And a few from those of later times."
+  },
+  {
+    "id": "15",
+    "arabic": "عَلَىٰ سُرُرٍ مَّوْضُونَةٍ",
+    "bangla": "স্বর্ণ খচিত সিংহাসন।",
+    "english": "(They will be) on Thrones encrusted (with gold and precious stones),"
+  },
+  {
+    "id": "16",
+    "arabic": "مُّتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ",
+    "bangla": "তারা তাতে হেলান দিয়ে বসবে পরস্পর মুখোমুখি হয়ে।",
+    "english": "Reclining on them, facing each other."
+  },
+  {
+    "id": "17",
+    "arabic": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ",
+    "bangla": "তাদের কাছে ঘোরাফেরা করবে চির কিশোরেরা।",
+    "english": "Round about them will (serve) youths of perpetual (freshness),"
+  },
+  {
+    "id": "18",
+    "arabic": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ",
+    "bangla": "পানপাত্র কুঁজা ও খাঁটি সূরাপূর্ণ পেয়ালা হাতে নিয়ে,",
+    "english": "With goblets, (shining) beakers, and cups (filled) out of clear-flowing fountains:"
+  },
+  {
+    "id": "19",
+    "arabic": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+    "bangla": "যা পান করলে তাদের শিরঃপীড়া হবে না এবং বিকারগ্রস্ত ও হবে না।",
+    "english": "No after-ache will they receive therefrom, nor will they suffer intoxication:"
+  },
+  {
+    "id": "20",
+    "arabic": "وَفَاكِهَةٍ مِّمَّا يَتَخَيَّرُونَ",
+    "bangla": "আর তাদের পছন্দমত ফল-মুল নিয়ে,",
+    "english": "And with fruits, any that they may select:"
+  },
+  {
+    "id": "21",
+    "arabic": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+    "bangla": "এবং রুচিমত পাখীর মাংস নিয়ে।",
+    "english": "And the flesh of fowls, any that they may desire."
+  },
+  {
+    "id": "22",
+    "arabic": "وَحُورٌ عِينٌ",
+    "bangla": "তথায় থাকবে আনতনয়না হুরগণ,",
+    "english": "And (there will be) Companions with beautiful, big, and lustrous eyes,-"
+  },
+  {
+    "id": "23",
+    "arabic": "كَأَمْثَالِ اللُّؤْلُؤِ الْمَكْنُونِ",
+    "bangla": "আবরণে রক্ষিত মোতির ন্যায়,",
+    "english": "Like unto Pearls well-guarded."
+  },
+  {
+    "id": "24",
+    "arabic": "جَزَاءً بِمَا كَانُوا يَعْمَلُونَ",
+    "bangla": "তারা যা কিছু করত, তার পুরস্কারস্বরূপ।",
+    "english": "A Reward for the deeds of their past (life)."
+  },
+  {
+    "id": "25",
+    "arabic": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+    "bangla": "তারা তথায় অবান্তর ও কোন খারাপ কথা শুনবে না।",
+    "english": "Not frivolity will they hear therein, nor any taint of ill,-"
+  },
+  {
+    "id": "26",
+    "arabic": "إِلَّا قِيلًا سَلَامًا سَلَامًا",
+    "bangla": "কিন্তু শুনবে সালাম আর সালাম।",
+    "english": "Only the saying, \"Peace! Peace\"."
+  },
+  {
+    "id": "27",
+    "arabic": "وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ",
+    "bangla": "যারা ডান দিকে থাকবে, তারা কত ভাগ্যবান।",
+    "english": "The Companions of the Right Hand,- what will be the Companions of the Right Hand?"
+  },
+  {
+    "id": "28",
+    "arabic": "فِي سِدْرٍ مَّخْضُودٍ",
+    "bangla": "তারা থাকবে কাঁটাবিহীন বদরিকা বৃক্ষে।",
+    "english": "(They will be) among Lote-trees without thorns,"
+  },
+  {
+    "id": "29",
+    "arabic": "وَطَلْحٍ مَّنضُودٍ",
+    "bangla": "এবং কাঁদি কাঁদি কলায়,",
+    "english": "Among Talh trees with flowers (or fruits) piled one above another,-"
+  },
+  {
+    "id": "30",
+    "arabic": "وَظِلٍّ مَّمْدُودٍ",
+    "bangla": "এবং দীর্ঘ ছায়ায়।",
+    "english": "In shade long-extended,"
+  },
+  {
+    "id": "31",
+    "arabic": "وَمَاءٍ مَّسْكُوبٍ",
+    "bangla": "এবং প্রবাহিত পানিতে,",
+    "english": "By water flowing constantly,"
+  },
+  {
+    "id": "32",
+    "arabic": "وَفَاكِهَةٍ كَثِيرَةٍ",
+    "bangla": "ও প্রচুর ফল-মূলে,",
+    "english": "And fruit in abundance."
+  },
+  {
+    "id": "33",
+    "arabic": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+    "bangla": "যা শেষ হবার নয় এবং নিষিদ্ধ ও নয়,",
+    "english": "Whose season is not limited, nor (supply) forbidden,"
+  },
+  {
+    "id": "34",
+    "arabic": "وَفُرُشٍ مَّرْفُوعَةٍ",
+    "bangla": "আর থাকবে সমুন্নত শয্যায়।",
+    "english": "And on Thrones (of Dignity), raised high."
+  },
+  {
+    "id": "35",
+    "arabic": "إِنَّا أَنشَأْنَاهُنَّ إِنشَاءً",
+    "bangla": "আমি জান্নাতী রমণীগণকে বিশেষরূপে সৃষ্টি করেছি।",
+    "english": "We have created (their Companions) of special creation."
+  },
+  {
+    "id": "36",
+    "arabic": "فَجَعَلْنَاهُنَّ أَبْكَارًا",
+    "bangla": "অতঃপর তাদেরকে করেছি চিরকুমারী।",
+    "english": "And made them virgin - pure (and undefiled), -"
+  },
+  {
+    "id": "37",
+    "arabic": "عُرُبًا أَتْرَابًا",
+    "bangla": "কামিনী, সমবয়স্কা।",
+    "english": "Beloved (by nature), equal in age,-"
+  },
+  {
+    "id": "38",
+    "arabic": "لِّأَصْحَابِ الْيَمِينِ",
+    "bangla": "ডান দিকের লোকদের জন্যে।",
+    "english": "For the Companions of the Right Hand."
+  },
+  {
+    "id": "39",
+    "arabic": "ثُلَّةٌ مِّنَ الْأَوَّلِينَ",
+    "bangla": "তাদের একদল হবে পূর্ববর্তীদের মধ্য থেকে।",
+    "english": "A (goodly) number from those of old,"
+  },
+  {
+    "id": "40",
+    "arabic": "وَثُلَّةٌ مِّنَ الْآخِرِينَ",
+    "bangla": "এবং একদল পরবর্তীদের মধ্য থেকে।",
+    "english": "And a (goodly) number from those of later times."
+  },
+  {
+    "id": "41",
+    "arabic": "وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ",
+    "bangla": "বামপার্শ্বস্থ লোক, কত না হতভাগা তারা।",
+    "english": "The Companions of the Left Hand,- what will be the Companions of the Left Hand?"
+  },
+  {
+    "id": "42",
+    "arabic": "فِي سَمُومٍ وَحَمِيمٍ",
+    "bangla": "তারা থাকবে প্রখর বাষ্পে এবং উত্তপ্ত পানিতে,",
+    "english": "(They will be) in the midst of a Fierce Blast of Fire and in Boiling Water,"
+  },
+  {
+    "id": "43",
+    "arabic": "وَظِلٍّ مِّن يَحْمُومٍ",
+    "bangla": "এবং ধুম্রকুঞ্জের ছায়ায়।",
+    "english": "And in the shades of Black Smoke:"
+  },
+  {
+    "id": "44",
+    "arabic": "لَّا بَارِدٍ وَلَا كَرِيمٍ",
+    "bangla": "যা শীতল নয় এবং আরামদায়কও নয়।",
+    "english": "Nothing (will there be) to refresh, nor to please:"
+  },
+  {
+    "id": "45",
+    "arabic": "إِنَّهُمْ كَانُوا قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+    "bangla": "তারা ইতিপূর্বে স্বাচ্ছন্দ্যশীল ছিল।",
+    "english": "For that they were wont to be indulged, before that, in wealth (and luxury),"
+  },
+  {
+    "id": "46",
+    "arabic": "وَكَانُوا يُصِرُّونَ عَلَى الْحِنثِ الْعَظِيمِ",
+    "bangla": "তারা সদাসর্বদা ঘোরতর পাপকর্মে ডুবে থাকত।",
+    "english": "And persisted obstinately in wickedness supreme!"
+  },
+  {
+    "id": "47",
+    "arabic": "وَكَانُوا يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
+    "bangla": "তারা বলতঃ আমরা যখন মরে অস্থি ও মৃত্তিকায় পরিণত হয়ে যাব, তখনও কি পুনরুত্থিত হব?",
+    "english": "And they used to say, \"What! when we die and become dust and bones, shall we then indeed be raised up again?-"
+  },
+  {
+    "id": "48",
+    "arabic": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
+    "bangla": "এবং আমাদের পূর্বপুরুষগণও!",
+    "english": "\"(We) and our fathers of old?\""
+  },
+  {
+    "id": "49",
+    "arabic": "قُلْ إِنَّ الْأَوَّلِينَ وَالْآخِرِينَ",
+    "bangla": "বলুনঃ পূর্ববর্তী ও পরবর্তীগণ,",
+    "english": "Say: \"Yea, those of old and those of later times,"
+  },
+  {
+    "id": "50",
+    "arabic": "لَمَجْمُوعُونَ إِلَىٰ مِيقَاتِ يَوْمٍ مَّعْلُومٍ",
+    "bangla": "সবাই একত্রিত হবে এক নির্দিষ্ট দিনের নির্দিষ্ট সময়ে।",
+    "english": "\"All will certainly be gathered together for the meeting appointed for a Day well-known."
+  },
+  {
+    "id": "51",
+    "arabic": "ثُمَّ إِنَّكُمْ أَيُّهَا الضَّالُّونَ الْمُكَذِّبُونَ",
+    "bangla": "অতঃপর হে পথভ্রষ্ট, মিথ্যারোপকারীগণ।",
+    "english": "\"Then will ye truly,- O ye that go wrong, and treat (Truth) as Falsehood!-"
+  },
+  {
+    "id": "52",
+    "arabic": "لَآكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+    "bangla": "তোমরা অবশ্যই ভক্ষণ করবে যাক্কুম বৃক্ষ থেকে,",
+    "english": "\"Ye will surely taste of the Tree of Zaqqum."
+  },
+  {
+    "id": "53",
+    "arabic": "فَمَالِئُونَ مِنْهَا الْبُطُونَ",
+    "bangla": "অতঃপর তা দ্বারা উদর পূর্ণ করবে,",
+    "english": "\"Then will ye fill your insides therewith,"
+  },
+  {
+    "id": "54",
+    "arabic": "فَشَارِبُونَ عَلَيْهِ مِنَ الْحَمِيمِ",
+    "bangla": "অতঃপর তার উপর পান করবে উত্তপ্ত পানি।",
+    "english": "\"And drink Boiling Water on top of it:"
+  },
+  {
+    "id": "55",
+    "arabic": "فَشَارِبُونَ شُرْبَ الْهِيمِ",
+    "bangla": "পান করবে পিপাসিত উটের ন্যায়।",
+    "english": "\"Indeed ye shall drink like diseased camels raging with thirst!\""
+  },
+  {
+    "id": "56",
+    "arabic": "هَـٰذَا نُزُلُهُمْ يَوْمَ الدِّينِ",
+    "bangla": "কেয়ামতের দিন এটাই হবে তাদের আপ্যায়ন।",
+    "english": "Such will be their entertainment on the Day of Requital!"
+  },
+  {
+    "id": "57",
+    "arabic": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ",
+    "bangla": "আমি সৃষ্টি করেছি তোমাদেরকে। অতঃপর কেন তোমরা তা সত্য বলে বিশ্বাস কর না।",
+    "english": "It is We Who have created you: why will ye not witness the Truth?"
+  },
+  {
+    "id": "58",
+    "arabic": "أَفَرَأَيْتُم مَّا تُمْنُونَ",
+    "bangla": "তোমরা কি ভেবে দেখেছ, তোমাদের বীর্যপাত সম্পর্কে।",
+    "english": "Do ye then see?- The (human Seed) that ye throw out,-"
+  },
+  {
+    "id": "59",
+    "arabic": "أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ",
+    "bangla": "তোমরা তাকে সৃষ্টি কর, না আমি সৃষ্টি করি?",
+    "english": "Is it ye who create it, or are We the Creators?"
+  },
+  {
+    "id": "60",
+    "arabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+    "bangla": "আমি তোমাদের মৃত্যুকাল নির্ধারিত করেছি এবং আমি অক্ষম নই।",
+    "english": "We have decreed Death to be your common lot, and We are not to be frustrated"
+  },
+  {
+    "id": "61",
+    "arabic": "عَلَىٰ أَن نُّبَدِّلَ أَمْثَالَكُمْ وَنُنشِئَكُمْ فِي مَا لَا تَعْلَمُونَ",
+    "bangla": "এ ব্যাপারে যে, তোমাদের পরিবর্তে তোমাদের মত লোককে নিয়ে আসি এবং তোমাদেরকে এমন করে দেই, যা তোমরা জান না।",
+    "english": "from changing your Forms and creating you (again) in (forms) that ye know not."
+  },
+  {
+    "id": "62",
+    "arabic": "وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+    "bangla": "তোমরা অবগত হয়েছ প্রথম সৃষ্টি সম্পর্কে, তবে তোমরা অনুধাবন কর না কেন?",
+    "english": "And ye certainly know already the first form of creation: why then do ye not celebrate His praises?"
+  },
+  {
+    "id": "63",
+    "arabic": "أَفَرَأَيْتُم مَّا تَحْرُثُونَ",
+    "bangla": "তোমরা যে বীজ বপন কর, সে সম্পর্কে ভেবে দেখেছ কি?",
+    "english": "See ye the seed that ye sow in the ground?"
+  },
+  {
+    "id": "64",
+    "arabic": "أَأَنتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ",
+    "bangla": "তোমরা তাকে উৎপন্ন কর, না আমি উৎপন্নকারী ?",
+    "english": "Is it ye that cause it to grow, or are We the Cause?"
+  },
+  {
+    "id": "65",
+    "arabic": "لَوْ نَشَاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ",
+    "bangla": "আমি ইচ্ছা করলে তাকে খড়কুটা করে দিতে পারি, অতঃপর হয়ে যাবে তোমরা বিস্ময়াবিষ্ট।",
+    "english": "Were it Our Will, We could crumble it to dry powder, and ye would be left in wonderment,"
+  },
+  {
+    "id": "66",
+    "arabic": "إِنَّا لَمُغْرَمُونَ",
+    "bangla": "বলবেঃ আমরা তো ঋণের চাপে পড়ে গেলাম;",
+    "english": "(Saying), \"We are indeed left with debts (for nothing):"
+  },
+  {
+    "id": "67",
+    "arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+    "bangla": "বরং আমরা হূত সর্বস্ব হয়ে পড়লাম।",
+    "english": "\"Indeed are we shut out (of the fruits of our labour)\""
+  },
+  {
+    "id": "68",
+    "arabic": "أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ",
+    "bangla": "তোমরা যে পানি পান কর, সে সম্পর্কে ভেবে দেখেছ কি?",
+    "english": "See ye the water which ye drink?"
+  },
+  {
+    "id": "69",
+    "arabic": "أَأَنتُمْ أَنزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنزِلُونَ",
+    "bangla": "তোমরা তা মেঘ থেকে নামিয়ে আন, না আমি বর্ষন করি?",
+    "english": "Do ye bring it down (in rain) from the cloud or do We?"
+  },
+  {
+    "id": "70",
+    "arabic": "لَوْ نَشَاءُ جَعَلْنَاهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+    "bangla": "আমি ইচ্ছা করলে তাকে লোনা করে দিতে পারি, অতঃপর তোমরা কেন কৃতজ্ঞতা প্রকাশ কর না?",
+    "english": "Were it Our Will, We could make it salt (and unpalatable): then why do ye not give thanks?"
+  },
+  {
+    "id": "71",
+    "arabic": "أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ",
+    "bangla": "তোমরা যে অগ্নি প্রজ্জ্বলিত কর, সে সম্পর্কে ভেবে দেখেছ কি?",
+    "english": "See ye the Fire which ye kindle?"
+  },
+  {
+    "id": "72",
+    "arabic": "أَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَا أَمْ نَحْنُ الْمُنشِئُونَ",
+    "bangla": "তোমরা কি এর বৃক্ষ সৃষ্টি করেছ, না আমি সৃষ্টি করেছি ?",
+    "english": "Is it ye who grow the tree which feeds the fire, or do We grow it?"
+  },
+  {
+    "id": "73",
+    "arabic": "نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِّلْمُقْوِينَ",
+    "bangla": "আমি সেই বৃক্ষকে করেছি স্মরণিকা এবং মরুবাসীদের জন্য সামগ্রী।",
+    "english": "We have made it a memorial (of Our handiwork), and an article of comfort and convenience for the denizens of deserts."
+  },
+  {
+    "id": "74",
+    "arabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+    "bangla": "অতএব, আপনি আপনার মহান পালনকর্তার নামে পবিত্রতা ঘোষণা করুন।",
+    "english": "Then celebrate with praises the name of thy Lord, the Supreme!"
+  },
+  {
+    "id": "75",
+    "arabic": "فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ",
+    "bangla": "অতএব, আমি তারকারাজির অস্তাচলের শপথ করছি,",
+    "english": "Furthermore I call to witness the setting of the Stars,-"
+  },
+  {
+    "id": "76",
+    "arabic": "وَإِنَّهُ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+    "bangla": "নিশ্চয় এটা এক মহা শপথ-যদি তোমরা জানতে।",
+    "english": "And that is indeed a mighty adjuration if ye but knew,-"
+  },
+  {
+    "id": "77",
+    "arabic": "إِنَّهُ لَقُرْآنٌ كَرِيمٌ",
+    "bangla": "নিশ্চয় এটা সম্মানিত কোরআন,",
+    "english": "That this is indeed a qur'an Most Honourable,"
+  },
+  {
+    "id": "78",
+    "arabic": "فِي كِتَابٍ مَّكْنُونٍ",
+    "bangla": "যা আছে এক গোপন কিতাবে,",
+    "english": "In Book well-guarded,"
+  },
+  {
+    "id": "79",
+    "arabic": "لَّا يَمَسُّهُ إِلَّا الْمُطَهَّرُونَ",
+    "bangla": "যারা পাক-পবিত্র, তারা ব্যতীত অন্য কেউ একে স্পর্শ করবে না।",
+    "english": "Which none shall touch but those who are clean:"
+  },
+  {
+    "id": "80",
+    "arabic": "تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ",
+    "bangla": "এটা বিশ্ব-পালনকর্তার পক্ষ থেকে অবতীর্ণ।",
+    "english": "A Revelation from the Lord of the Worlds."
+  },
+  {
+    "id": "81",
+    "arabic": "أَفَبِهَـٰذَا الْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+    "bangla": "তবুও কি তোমরা এই বাণীর প্রতি শৈথিল্য পদর্শন করবে?",
+    "english": "Is it such a Message that ye would hold in light esteem?"
+  },
+  {
+    "id": "82",
+    "arabic": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+    "bangla": "এবং একে মিথ্যা বলাকেই তোমরা তোমাদের ভূমিকায় পরিণত করবে?",
+    "english": "And have ye made it your livelihood that ye should declare it false?"
+  },
+  {
+    "id": "83",
+    "arabic": "فَلَوْلَا إِذَا بَلَغَتِ الْحُلْقُومَ",
+    "bangla": "অতঃপর যখন কারও প্রাণ কন্ঠাগত হয়।",
+    "english": "Then why do ye not (intervene) when (the soul of the dying man) reaches the throat,-"
+  },
+  {
+    "id": "84",
+    "arabic": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+    "bangla": "এবং তোমরা তাকিয়ে থাক,",
+    "english": "And ye the while (sit) looking on,-"
+  },
+  {
+    "id": "85",
+    "arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+    "bangla": "তখন আমি তোমাদের অপেক্ষা তার অধিক নিকটে থাকি; কিন্তু তোমরা দেখ না।",
+    "english": "But We are nearer to him than ye, and yet see not,-"
+  },
+  {
+    "id": "86",
+    "arabic": "فَلَوْلَا إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+    "bangla": "যদি তোমাদের হিসাব-কিতাব না হওয়াই ঠিক হয়,",
+    "english": "Then why do ye not,- If you are exempt from (future) account,-"
+  },
+  {
+    "id": "87",
+    "arabic": "تَرْجِعُونَهَا إِن كُنتُمْ صَادِقِينَ",
+    "bangla": "তবে তোমরা এই আত্মাকে ফিরাও না কেন, যদি তোমরা সত্যবাদী হও ?",
+    "english": "Call back the soul, if ye are true (in the claim of independence)?"
+  },
+  {
+    "id": "88",
+    "arabic": "فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ",
+    "bangla": "যদি সে নৈকট্যশীলদের একজন হয়;",
+    "english": "Thus, then, if he be of those Nearest to Allah,"
+  },
+  {
+    "id": "89",
+    "arabic": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+    "bangla": "তবে তার জন্যে আছে সুখ, উত্তম রিযিক এবং নেয়ামতে ভরা উদ্যান।",
+    "english": "(There is for him) Rest and Satisfaction, and a Garden of Delights."
+  },
+  {
+    "id": "90",
+    "arabic": "وَأَمَّا إِن كَانَ مِنْ أَصْحَابِ الْيَمِينِ",
+    "bangla": "আর যদি সে ডান পার্শ্বস্থদের একজন হয়,",
+    "english": "And if he be of the Companions of the Right Hand,"
+  },
+  {
+    "id": "91",
+    "arabic": "فَسَلَامٌ لَّكَ مِنْ أَصْحَابِ الْيَمِينِ",
+    "bangla": "তবে তাকে বলা হবেঃ তোমার জন্যে ডানপার্শ্বসস্থদের পক্ষ থেকে সালাম।",
+    "english": "(For him is the salutation), \"Peace be unto thee\", from the Companions of the Right Hand."
+  },
+  {
+    "id": "92",
+    "arabic": "وَأَمَّا إِن كَانَ مِنَ الْمُكَذِّبِينَ الضَّالِّينَ",
+    "bangla": "আর যদি সে পথভ্রষ্ট মিথ্যারোপকারীদের একজন হয়,",
+    "english": "And if he be of those who treat (Truth) as Falsehood, who go wrong,"
+  },
+  {
+    "id": "93",
+    "arabic": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+    "bangla": "তবে তার আপ্যায়ন হবে উত্তপ্ত পানি দ্বারা।",
+    "english": "For him is Entertainment with Boiling Water."
+  },
+  {
+    "id": "94",
+    "arabic": "وَتَصْلِيَةُ جَحِيمٍ",
+    "bangla": "এবং সে নিক্ষিপ্ত হবে অগ্নিতে।",
+    "english": "And burning in Hell-Fire."
+  },
+  {
+    "id": "95",
+    "arabic": "إِنَّ هَـٰذَا لَهُوَ حَقُّ الْيَقِينِ",
+    "bangla": "এটা ধ্রুব সত্য।",
+    "english": "Verily, this is the Very Truth and Certainly."
+  },
+  {
+    "id": "96",
+    "arabic": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ",
+    "bangla": "অতএব, আপনি আপনার মহান পালনকর্তার নামে পবিত্রতা ঘোষণা করুন।",
+    "english": "So celebrate with praises the name of thy Lord, the Supreme."
+  }
+]

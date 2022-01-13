@@ -1,0 +1,123 @@
+/*width*/
+.w-F {
+  width: 100%;
+}
+
+.w-hF {
+  width: 50%;
+}
+
+.h-F {
+  height: 100%;
+}
+
+.h-hF {
+  height: 50%;
+}
+
+.wv-F {
+  height: 100vw;
+}
+
+.wv-hF {
+  height: 50vw;
+}
+
+.hv-F {
+  height: 100vh;
+}
+
+.hv-hF {
+  height: 50vh;
+}
+
+.fd-x {
+  display: flex;
+  flex-direction: row;
+}
+
+.fd-y {
+  display: flex;
+  flex-direction: column;
+}
+
+/*when flex-direction row*/
+.fx-x-s {
+  justify-content: flex-start;
+}
+.fx-x-c {
+  justify-content: center;
+}
+.fx-x-e {
+  justify-content: flex-end;
+}
+.fx-x-sa {
+  justify-content: space-around;
+}
+.fx-x-sb {
+  justify-content: space-between;
+}
+
+.fx-y-s {
+  align-items: flex-start;
+}
+.fx-y-c {
+  align-items: center;
+}
+.fx-y-e {
+  align-items: flex-end;
+}
+
+/*when flex-direction column*/
+.fy-x-s {
+  align-items: flex-start;
+}
+.fy-x-c {
+  align-items: center;
+}
+.fy-x-e {
+  align-items: flex-end;
+}
+
+.fy-y-s {
+  justify-content: flex-start;
+}
+.fy-y-c {
+  justify-content: center;
+}
+.fy-y-e {
+  justify-content: flex-end;
+}
+.fy-y-sa {
+  justify-content: space-around;
+}
+.fy-y-sb {
+  justify-content: space-between;
+}
+
+/*flex-shrink*/
+.fl-s-0 {
+  flex-shrink: 0;
+}
+
+/*list-style-none*/
+.li-style-0 {
+  list-style: none;
+}
+
+.b-dashed {
+  border: 1px dashed;
+}
+
+.ps-r {
+  position: relative;
+}
+.ps-a {
+  position: absolute;
+}
+.ps-f {
+  position: fixed;
+}
+.ps-s {
+  position: sticky;
+}

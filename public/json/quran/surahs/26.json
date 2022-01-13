@@ -1,0 +1,1364 @@
+[
+  {
+    "id": "1",
+    "arabic": "طسم",
+    "bangla": "ত্বা, সীন, মীম।",
+    "english": "Ta. Sin. Mim."
+  },
+  {
+    "id": "2",
+    "arabic": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+    "bangla": "এগুলো সুস্পষ্ট কিতাবের আয়াত।",
+    "english": "These are verses of the Book that makes (things) clear."
+  },
+  {
+    "id": "3",
+    "arabic": "لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ",
+    "bangla": "তারা বিশ্বাস করে না বলে আপনি হয়তো মর্মব্যথায় আত্নঘাতী হবেন।",
+    "english": "It may be thou frettest thy soul with grief, that they do not become Believers."
+  },
+  {
+    "id": "4",
+    "arabic": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ",
+    "bangla": "আমি যদি ইচ্ছা করি, তবে আকাশ থেকে তাদের কাছে কোন নিদর্শন নাযিল করতে পারি। অতঃপর তারা এর সামনে নত হয়ে যাবে।",
+    "english": "If (such) were Our Will, We could send down to them from the sky a Sign, to which they would bend their necks in humility."
+  },
+  {
+    "id": "5",
+    "arabic": "وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ الرَّحْمَـٰنِ مُحْدَثٍ إِلَّا كَانُوا عَنْهُ مُعْرِضِينَ",
+    "bangla": "যখনই তাদের কাছে রহমান এর কোন নতুন উপদেশ আসে, তখনই তারা তা থেকে মুখ ফিরিয়ে নেয়।",
+    "english": "But there comes not to them a newly-revealed Message from ((Allah)) Most Gracious, but they turn away therefrom."
+  },
+  {
+    "id": "6",
+    "arabic": "فَقَدْ كَذَّبُوا فَسَيَأْتِيهِمْ أَنبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+    "bangla": "অতএব তারা তো মিথ্যারোপ করেছেই; সুতরাং যে বিষয় নিয়ে তারা ঠাট্টা-বিদ্রুপ করত, তার যথার্থ স্বরূপ শীঘ্রই তাদের কাছে পৌছবে।",
+    "english": "They have indeed rejected (the Message): so they will know soon (enough) the truth of what they mocked at!"
+  },
+  {
+    "id": "7",
+    "arabic": "أَوَلَمْ يَرَوْا إِلَى الْأَرْضِ كَمْ أَنبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+    "bangla": "তারা কি ভুপৃষ্ঠের প্রতি দৃষ্টিপাত করে না? আমি তাতে সর্বপ্রকার বিশেষ-বস্তু কত উদগত করেছি।",
+    "english": "Do they not look at the earth,- how many noble things of all kinds We have produced therein?"
+  },
+  {
+    "id": "8",
+    "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "bangla": "নিশ্চয় এতে নিদর্শন আছে, কিন্তু তাদের অধিকাংশই বিশ্বাসী নয়।",
+    "english": "Verily, in this is a Sign: but most of them do not believe."
+  },
+  {
+    "id": "9",
+    "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    "bangla": "আপনার পালনকর্তা তো পরাক্রমশালী পরম দয়ালু।",
+    "english": "And verily, thy Lord is He, the Exalted in Might, Most Merciful."
+  },
+  {
+    "id": "10",
+    "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰ أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ",
+    "bangla": "যখন আপনার পালনকর্তা মূসাকে ডেকে বললেনঃ তুমি পাপিষ্ঠ সম্প্রদায়ের নিকট যাও;",
+    "english": "Behold, thy Lord called Moses: \"Go to the people of iniquity,-"
+  },
+  {
+    "id": "11",
+    "arabic": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+    "bangla": "ফেরাউনের সম্প্রদায়ের নিকট; তারা কি ভয় করে না?",
+    "english": "\"The people of the Pharaoh: will they not fear Allah.\""
+  },
+  {
+    "id": "12",
+    "arabic": "قَالَ رَبِّ إِنِّي أَخَافُ أَن يُكَذِّبُونِ",
+    "bangla": "সে বলল, হে আমার পালনকর্তা, আমার আশংকা হচ্ছে যে, তারা আমাকে মিথ্যাবাদী বলে দেবে।",
+    "english": "He said: \"O my Lord! I do fear that they will charge me with falsehood:"
+  },
+  {
+    "id": "13",
+    "arabic": "وَيَضِيقُ صَدْرِي وَلَا يَنطَلِقُ لِسَانِي فَأَرْسِلْ إِلَىٰ هَارُونَ",
+    "bangla": "এবং আমার মন হতবল হয়ে পড়ে এবং আমার জিহবা অচল হয়ে যায়। সুতরাং হারুনের কাছে বার্তা প্রেরণ করুন।",
+    "english": "\"My breast will be straitened. And my speech may not go (smoothly): so send unto Aaron."
+  },
+  {
+    "id": "14",
+    "arabic": "وَلَهُمْ عَلَيَّ ذَنبٌ فَأَخَافُ أَن يَقْتُلُونِ",
+    "bangla": "আমার বিরুদ্ধে তাদের অভিযোগ আছে। অতএব আমি আশংকা করি যে, তারা আমাকে হত্যা করবে।",
+    "english": "\"And (further), they have a charge of crime against me; and I fear they may slay me.\""
+  },
+  {
+    "id": "15",
+    "arabic": "قَالَ كَلَّا ۖ فَاذْهَبَا بِآيَاتِنَا ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ",
+    "bangla": "আল্লাহ বলেন, কখনই নয় তোমরা উভয়ে যাও আমার নিদর্শনাবলী নিয়ে। আমি তোমাদের সাথে থেকে শোনব।",
+    "english": "Allah said: \"By no means! proceed then, both of you, with Our Signs; We are with you, and will listen (to your call)."
+  },
+  {
+    "id": "16",
+    "arabic": "فَأْتِيَا فِرْعَوْنَ فَقُولَا إِنَّا رَسُولُ رَبِّ الْعَالَمِينَ",
+    "bangla": "অতএব তোমরা ফেরআউনের কাছে যাও এবং বল, আমরা বিশ্বজগতের পালনকর্তার রসূল।",
+    "english": "\"So go forth, both of you, to Pharaoh, and say: 'We have been sent by the Lord and Cherisher of the worlds;"
+  },
+  {
+    "id": "17",
+    "arabic": "أَنْ أَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ",
+    "bangla": "যাতে তুমি বনী-ইসরাঈলকে আমাদের সাথে যেতে দাও।",
+    "english": "\"'Send thou with us the Children of Israel.'\""
+  },
+  {
+    "id": "18",
+    "arabic": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+    "bangla": "ফেরাউন বলল, আমরা কি তোমাকে শিশু অবস্থায় আমাদের মধ্যে লালন-পালন করিনি? এবং তুমি আমাদের মধ্যে জীবনের বহু বছর কাটিয়েছ।",
+    "english": "(Pharaoh) said: \"Did we not cherish thee as a child among us, and didst thou not stay in our midst many years of thy life?"
+  },
+  {
+    "id": "19",
+    "arabic": "وَفَعَلْتَ فَعْلَتَكَ الَّتِي فَعَلْتَ وَأَنتَ مِنَ الْكَافِرِينَ",
+    "bangla": "তুমি সেই-তোমরা অপরাধ যা করবার করেছ। তুমি হলে কৃতঘ্ন।",
+    "english": "\"And thou didst a deed of thine which (thou knowest) thou didst, and thou art an ungrateful (wretch)!\""
+  },
+  {
+    "id": "20",
+    "arabic": "قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ",
+    "bangla": "মূসা বলল, আমি সে অপরাধ তখন করেছি, যখন আমি ভ্রান্ত ছিলাম।",
+    "english": "Moses said: \"I did it then, when I was in error."
+  },
+  {
+    "id": "21",
+    "arabic": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا وَجَعَلَنِي مِنَ الْمُرْسَلِينَ",
+    "bangla": "অতঃপর আমি ভীত হয়ে তোমাদের কাছ থেকে পলায়ন করলাম। এরপর আমার পালনকর্তা আমাকে প্রজ্ঞা দান করেছেন এবং আমাকে পয়গম্বর করেছেন।",
+    "english": "\"So I fled from you (all) when I feared you; but my Lord has (since) invested me with judgment (and wisdom) and appointed me as one of the apostles."
+  },
+  {
+    "id": "22",
+    "arabic": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدتَّ بَنِي إِسْرَائِيلَ",
+    "bangla": "আমার প্রতি তোমার যে অনুগ্রহের কথা বলছ, তা এই যে, তুমি বনী-ইসলাঈলকে গোলাম বানিয়ে রেখেছ।",
+    "english": "\"And this is the favour with which thou dost reproach me,- that thou hast enslaved the Children of Israel!\""
+  },
+  {
+    "id": "23",
+    "arabic": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ",
+    "bangla": "ফেরাউন বলল, বিশ্বজগতের পালনকর্তা আবার কি?",
+    "english": "Pharaoh said: \"And what is the 'Lord and Cherisher of the worlds'?\""
+  },
+  {
+    "id": "24",
+    "arabic": "قَالَ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ إِن كُنتُم مُّوقِنِينَ",
+    "bangla": "মূসা বলল, তিনি নভোমন্ডল, ভূমন্ডল ও এতদুভয়ের মধ্যবর্তী সবকিছুর পালনকর্তা যদি তোমরা বিশ্বাসী হও।",
+    "english": "(Moses) said: \"The Lord and Cherisher of the heavens and the earth, and all between,- if ye want to be quite sure.\""
+  },
+  {
+    "id": "25",
+    "arabic": "قَالَ لِمَنْ حَوْلَهُ أَلَا تَسْتَمِعُونَ",
+    "bangla": "ফেরাউন তার পরিষদবর্গকে বলল, তোমরা কি শুনছ না?",
+    "english": "(Pharaoh) said to those around: \"Did ye not listen (to what he says)?\""
+  },
+  {
+    "id": "26",
+    "arabic": "قَالَ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الْأَوَّلِينَ",
+    "bangla": "মূসা বলল, তিনি তোমাদের পালনকর্তা এবং তোমাদের পূর্ববর্তীদেরও পালনকর্তা।",
+    "english": "(Moses) said: \"Your Lord and the Lord of your fathers from the beginning!\""
+  },
+  {
+    "id": "27",
+    "arabic": "قَالَ إِنَّ رَسُولَكُمُ الَّذِي أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ",
+    "bangla": "ফেরাউন বলল, তোমাদের প্রতি প্রেরিত তোমাদের রসূলটি নিশ্চয়ই বদ্ধ পাগল।",
+    "english": "(Pharaoh) said: \"Truly your apostle who has been sent to you is a veritable madman!\""
+  },
+  {
+    "id": "28",
+    "arabic": "قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَا ۖ إِن كُنتُمْ تَعْقِلُونَ",
+    "bangla": "মূসা বলল, তিনি পূর্ব, পশ্চিম ও এতদুভয়ের মধ্যবর্তী সব কিছুর পালনকর্তা, যদি তোমরা বোঝ।",
+    "english": "(Moses) said: \"Lord of the East and the West, and all between! if ye only had sense!\""
+  },
+  {
+    "id": "29",
+    "arabic": "قَالَ لَئِنِ اتَّخَذْتَ إِلَـٰهًا غَيْرِي لَأَجْعَلَنَّكَ مِنَ الْمَسْجُونِينَ",
+    "bangla": "ফেরাউন বলল, তুমি যদি আমার পরিবর্তে অন্যকে উপাস্যরূপে গ্রহণ কর তবে আমি অবশ্যই তোমাকে কারাগারে নিক্ষেপ করব।",
+    "english": "(Pharaoh) said: \"If thou dost put forward any god other than me, I will certainly put thee in prison!\""
+  },
+  {
+    "id": "30",
+    "arabic": "قَالَ أَوَلَوْ جِئْتُكَ بِشَيْءٍ مُّبِينٍ",
+    "bangla": "মূসা বলল, আমি তোমার কাছে কোন স্পষ্ট বিষয় নিয়ে আগমন করলেও কি?",
+    "english": "(Moses) said: \"Even if I showed you something clear (and) convincing?\""
+  },
+  {
+    "id": "31",
+    "arabic": "قَالَ فَأْتِ بِهِ إِن كُنتَ مِنَ الصَّادِقِينَ",
+    "bangla": "ফেরাউন বলল, তুমি সত্যবাদী হলে তা উপস্থিত কর।",
+    "english": "(Pharaoh) said: \"Show it then, if thou tellest the truth!\""
+  },
+  {
+    "id": "32",
+    "arabic": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُّبِينٌ",
+    "bangla": "অতঃপর তিনি লাঠি নিক্ষেপ করলে মুহূর্তের মধ্যে তা সুস্পষ্ট অজগর হয়ে গেল।",
+    "english": "So (Moses) threw his rod, and behold, it was a serpent, plain (for all to see)!"
+  },
+  {
+    "id": "33",
+    "arabic": "وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِينَ",
+    "bangla": "আর তিনি তার হাত বের করলেন, তৎক্ষণাৎ তা দর্শকদের কাছে সুশুভ্র প্রতিভাত হলো।",
+    "english": "And he drew out his hand, and behold, it was white to all beholders!"
+  },
+  {
+    "id": "34",
+    "arabic": "قَالَ لِلْمَلَإِ حَوْلَهُ إِنَّ هَـٰذَا لَسَاحِرٌ عَلِيمٌ",
+    "bangla": "ফেরাউন তার পরিষদবর্গকে বলল, নিশ্চয় এ একজন সুদক্ষ জাদুকর।",
+    "english": "(Pharaoh) said to the Chiefs around him: \"This is indeed a sorcerer well- versed:"
+  },
+  {
+    "id": "35",
+    "arabic": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِ فَمَاذَا تَأْمُرُونَ",
+    "bangla": "সে তার জাদু বলে তোমাদেরকে তোমাদের দেশ থেকে বহিস্কার করতে চায়। অতএব তোমাদের মত কি?",
+    "english": "\"His plan is to get you out of your land by his sorcery; then what is it ye counsel?\""
+  },
+  {
+    "id": "36",
+    "arabic": "قَالُوا أَرْجِهْ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ",
+    "bangla": "তারা বলল, তাকে ও তার ভাইকে কিছু অবকাশ দিন এবং শহরে শহরে ঘোষক প্রেরণ করুন।",
+    "english": "They said: \"Keep him and his brother in suspense (for a while), and dispatch to the Cities heralds to collect-"
+  },
+  {
+    "id": "37",
+    "arabic": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ",
+    "bangla": "তারা যেন আপনার কাছে প্রত্যেকটি দক্ষ জাদুকর কে উপস্থিত করে।",
+    "english": "\"And bring up to thee all (our) sorcerers well-versed.\""
+  },
+  {
+    "id": "38",
+    "arabic": "فَجُمِعَ السَّحَرَةُ لِمِيقَاتِ يَوْمٍ مَّعْلُومٍ",
+    "bangla": "অতঃপর এক নির্দিষ্ট দিনে জাদুকরদেরকে একত্রিত করা হল।",
+    "english": "So the sorcerers were got together for the appointment of a day well-known,"
+  },
+  {
+    "id": "39",
+    "arabic": "وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ",
+    "bangla": "এবং জনগণের মধ্যে ঘোষণা করা হল, তোমরাও সমবেত হও।",
+    "english": "And the people were told: \"Are ye (now) assembled?-"
+  },
+  {
+    "id": "40",
+    "arabic": "لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ إِن كَانُوا هُمُ الْغَالِبِينَ",
+    "bangla": "যাতে আমরা জাদুকরদের অনুসরণ করতে পারি-যদি তারাই বিজয়ী হয়।",
+    "english": "\"That we may follow the sorcerers (in religion) if they win?\""
+  },
+  {
+    "id": "41",
+    "arabic": "فَلَمَّا جَاءَ السَّحَرَةُ قَالُوا لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ الْغَالِبِينَ",
+    "bangla": "যখন যাদুকররা আগমণ করল, তখন ফেরআউনকে বলল, যদি আমরা বিজয়ী হই, তবে আমরা পুরস্কার পাব তো?",
+    "english": "So when the sorcerers arrived, they said to Pharaoh: \"Of course - shall we have a (suitable) reward if we win?"
+  },
+  {
+    "id": "42",
+    "arabic": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ الْمُقَرَّبِينَ",
+    "bangla": "ফেরাউন বলল, হঁ্যা এবং তখন তোমরা আমার নৈকট্যশীলদের অন্তর্ভুক্ত হবে।",
+    "english": "He said: \"Yea, (and more),- for ye shall in that case be (raised to posts) nearest (to my person).\""
+  },
+  {
+    "id": "43",
+    "arabic": "قَالَ لَهُم مُّوسَىٰ أَلْقُوا مَا أَنتُم مُّلْقُونَ",
+    "bangla": "মূসা (আঃ) তাদেরকে বললেন, নিক্ষেপ কর তোমরা যা নিক্ষেপ করবে।",
+    "english": "Moses said to them: \"Throw ye - that which ye are about to throw!\""
+  },
+  {
+    "id": "44",
+    "arabic": "فَأَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ الْغَالِبُونَ",
+    "bangla": "অতঃপর তারা তাদের রশি ও লাঠি নিক্ষেপ করল এবং বলল, ফেরাউনের ইযযতের কসম, আমরাই বিজয়ী হব।",
+    "english": "So they threw their ropes and their rods, and said: \"By the might of Pharaoh, it is we who will certainly win!\""
+  },
+  {
+    "id": "45",
+    "arabic": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ",
+    "bangla": "অতঃপর মূসা তাঁর লাঠি নিক্ষেপ করল, হঠাৎ তা তাদের অলীক কীর্তিগুলোকে গ্রাস করতে লাগল।",
+    "english": "Then Moses threw his rod, when, behold, it straightway swallows up all the falsehoods which they fake!"
+  },
+  {
+    "id": "46",
+    "arabic": "فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ",
+    "bangla": "তখন জাদুকররা সেজদায় নত হয়ে গেল।",
+    "english": "Then did the sorcerers fall down, prostrate in adoration,"
+  },
+  {
+    "id": "47",
+    "arabic": "قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ",
+    "bangla": "তারা বলল, আমরা রাব্বুল আলামীনের প্রতি বিশ্বাস স্থাপন করলাম।",
+    "english": "Saying: \"We believe in the Lord of the Worlds,"
+  },
+  {
+    "id": "48",
+    "arabic": "رَبِّ مُوسَىٰ وَهَارُونَ",
+    "bangla": "যিনি মূসা ও হারুনের রব।",
+    "english": "\"The Lord of Moses and Aaron.\""
+  },
+  {
+    "id": "49",
+    "arabic": "قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ ۖ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَافٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
+    "bangla": "ফেরাউন বলল, আমার অনুমতি দানের পূর্বেই তোমরা কি তাকে মেনে নিলে? নিশ্চয় সে তোমাদের প্রধান, যে তোমাদেরকে জাদু শিক্ষা দিয়েছে। শীঘ্রই তোমরা পরিণাম জানতে পারবে। আমি অবশ্যই তোমাদের হাত ও পা বিপরীত দিক থেকে কর্তন করব। এবং তোমাদের সবাইকে শূলে চড়াব।",
+    "english": "Said (Pharaoh): \"Believe ye in Him before I give you permission? surely he is your leader, who has taught you sorcery! but soon shall ye know!"
+  },
+  {
+    "id": "50",
+    "arabic": "قَالُوا لَا ضَيْرَ ۖ إِنَّا إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+    "bangla": "তারা বলল, কোন ক্ষতি নেই। আমরা আমাদের পালনকর্তার কাছে প্রত্যাবর্তন করব।",
+    "english": "\"Be sure I will cut off your hands and your feet on opposite sides, and I will cause you all to die on the cross!\""
+  },
+  {
+    "id": "51",
+    "arabic": "إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَايَانَا أَن كُنَّا أَوَّلَ الْمُؤْمِنِينَ",
+    "bangla": "আমরা আশা করি, আমাদের পালনকর্তা আমাদের ক্রটি-বিচ্যুতি মার্জনা করবেন। কারণ, আমরা বিশ্বাস স্থাপনকারীদের মধ্যে অগ্রণী।",
+    "english": "They said: \"No matter! for us, we shall but return to our Lord!"
+  },
+  {
+    "id": "52",
+    "arabic": "وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَسْرِ بِعِبَادِي إِنَّكُم مُّتَّبَعُونَ",
+    "bangla": "আমি মূসাকে আদেশ করলাম যে, আমার বান্দাদেরকে নিয়ে রাত্রিযোগে বের হয়ে যাও, নিশ্চয় তোমাদের পশ্চাদ্ধাবন করা হবে।",
+    "english": "\"Only, our desire is that our Lord will forgive us our faults, that we may become foremost among the believers!\""
+  },
+  {
+    "id": "53",
+    "arabic": "فَأَرْسَلَ فِرْعَوْنُ فِي الْمَدَائِنِ حَاشِرِينَ",
+    "bangla": "অতঃপর ফেরাউন শহরে শহরে সংগ্রাহকদেরকে প্রেরণ করল,",
+    "english": "By inspiration we told Moses: \"Travel by night with my servants; for surely ye shall be pursued.\""
+  },
+  {
+    "id": "54",
+    "arabic": "إِنَّ هَـٰؤُلَاءِ لَشِرْذِمَةٌ قَلِيلُونَ",
+    "bangla": "নিশ্চয় এরা (বনী-ইসরাঈলরা) ক্ষুদ্র একটি দল।",
+    "english": "Then Pharaoh sent heralds to (all) the Cities,"
+  },
+  {
+    "id": "55",
+    "arabic": "وَإِنَّهُمْ لَنَا لَغَائِظُونَ",
+    "bangla": "এবং তারা আমাদের ক্রোধের উদ্রেক করেছে।",
+    "english": "(Saying): \"These (Israelites) are but a small band,"
+  },
+  {
+    "id": "56",
+    "arabic": "وَإِنَّا لَجَمِيعٌ حَاذِرُونَ",
+    "bangla": "এবং আমরা সবাই সদা শংকিত।",
+    "english": "\"And they are raging furiously against us;"
+  },
+  {
+    "id": "57",
+    "arabic": "فَأَخْرَجْنَاهُم مِّن جَنَّاتٍ وَعُيُونٍ",
+    "bangla": "অতঃপর আমি ফেরআউনের দলকে তাদের বাগ-বাগিচা ও ঝর্ণাসমূহ থেকে বহিষ্কার করলাম।",
+    "english": "\"But we are a multitude amply fore-warned.\""
+  },
+  {
+    "id": "58",
+    "arabic": "وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ",
+    "bangla": "এবং ধন-ভান্ডার ও মনোরম স্থানসমূহ থেকে।",
+    "english": "So We expelled them from gardens, springs,"
+  },
+  {
+    "id": "59",
+    "arabic": "كَذَٰلِكَ وَأَوْرَثْنَاهَا بَنِي إِسْرَائِيلَ",
+    "bangla": "এরূপই হয়েছিল এবং বনী-ইসলাঈলকে করে দিলাম এসবের মালিক।",
+    "english": "Treasures, and every kind of honourable position;"
+  },
+  {
+    "id": "60",
+    "arabic": "فَأَتْبَعُوهُم مُّشْرِقِينَ",
+    "bangla": "অতঃপর সুর্যোদয়ের সময় তারা তাদের পশ্চাদ্ধাবন করল।",
+    "english": "Thus it was, but We made the Children of Israel inheritors of such things."
+  },
+  {
+    "id": "61",
+    "arabic": "فَلَمَّا تَرَاءَى الْجَمْعَانِ قَالَ أَصْحَابُ مُوسَىٰ إِنَّا لَمُدْرَكُونَ",
+    "bangla": "যখন উভয় দল পরস্পরকে দেখল, তখন মূসার সঙ্গীরা বলল, আমরা যে ধরা পড়ে গেলাম।",
+    "english": "So they pursued them at sunrise."
+  },
+  {
+    "id": "62",
+    "arabic": "قَالَ كَلَّا ۖ إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ",
+    "bangla": "মূসা বলল, কখনই নয়, আমার সাথে আছেন আমার পালনকর্তা। তিনি আমাকে পথ বলে দেবেন।",
+    "english": "And when the two bodies saw each other, the people of Moses said: \"We are sure to be overtaken.\""
+  },
+  {
+    "id": "63",
+    "arabic": "فَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنِ اضْرِب بِّعَصَاكَ الْبَحْرَ ۖ فَانفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ",
+    "bangla": "অতঃপর আমি মূসাকে আদেশ করলাম, তোমার লাঠি দ্বারা সমূদ্রকে আঘাত কর। ফলে, তা বিদীর্ণ হয়ে গেল এবং প্রত্যেক ভাগ বিশাল পর্বতসদৃশ হয়ে গেল।",
+    "english": "(Moses) said: \"By no means! my Lord is with me! Soon will He guide me!\""
+  },
+  {
+    "id": "64",
+    "arabic": "وَأَزْلَفْنَا ثَمَّ الْآخَرِينَ",
+    "bangla": "আমি সেথায় অপর দলকে পৌঁছিয়ে দিলাম।",
+    "english": "Then We told Moses by inspiration: \"Strike the sea with thy rod.\" So it divided, and each separate part became like the huge, firm mass of a mountain."
+  },
+  {
+    "id": "65",
+    "arabic": "وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُ أَجْمَعِينَ",
+    "bangla": "এবং মূসা ও তাঁর সংগীদের সবাইকে বাঁচিয়ে দিলাম।",
+    "english": "And We made the other party approach thither."
+  },
+  {
+    "id": "66",
+    "arabic": "ثُمَّ أَغْرَقْنَا الْآخَرِينَ",
+    "bangla": "অতঃপর অপর দলটিকে নিমজ্জত কললাম।",
+    "english": "We delivered Moses and all who were with him;"
+  },
+  {
+    "id": "67",
+    "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "bangla": "নিশ্চয় এতে একটি নিদর্শন আছে এবং তাদের অধিকাংশই বিশ্বাসী ছিল না।",
+    "english": "But We drowned the others."
+  },
+  {
+    "id": "68",
+    "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    "bangla": "আপনার পালনকর্তা অবশ্যই পরাক্রমশালী, পরম দয়ালু।",
+    "english": "Verily in this is a Sign: but most of them do not believe."
+  },
+  {
+    "id": "69",
+    "arabic": "وَاتْلُ عَلَيْهِمْ نَبَأَ إِبْرَاهِيمَ",
+    "bangla": "আর তাদেরকে ইব্রাহীমের বৃত্তান্ত শুনিয়ে দিন।",
+    "english": "And verily thy Lord is He, the Exalted in Might, Most Merciful."
+  },
+  {
+    "id": "70",
+    "arabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا تَعْبُدُونَ",
+    "bangla": "যখন তাঁর পিতাকে এবং তাঁর সম্প্রদায়কে বললেন, তোমরা কিসের এবাদত কর?",
+    "english": "And rehearse to them (something of) Abraham's story."
+  },
+  {
+    "id": "71",
+    "arabic": "قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَاكِفِينَ",
+    "bangla": "তারা বলল, আমরা প্রতিমার পূজা করি এবং সারাদিন এদেরকেই নিষ্ঠার সাথে আঁকড়ে থাকি।",
+    "english": "Behold, he said to his father and his people: \"What worship ye?\""
+  },
+  {
+    "id": "72",
+    "arabic": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ",
+    "bangla": "ইব্রাহীম (আঃ) বললেন, তোমরা যখন আহবান কর, তখন তারা শোনে কি?",
+    "english": "They said: \"We worship idols, and we remain constantly in attendance on them.\""
+  },
+  {
+    "id": "73",
+    "arabic": "أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ",
+    "bangla": "অথবা তারা কি তোমাদের উপকার কিংবা ক্ষতি করতে পারে?",
+    "english": "He said: \"Do they listen to you when ye call (on them), or do you good or harm?\""
+  },
+  {
+    "id": "74",
+    "arabic": "قَالُوا بَلْ وَجَدْنَا آبَاءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+    "bangla": "তারা বললঃ না, তবে আমরা আমাদের পিতৃপুরুষদেরকে পেয়েছি, তারা এরূপই করত।",
+    "english": "They said: \"Nay, but we found our fathers doing thus (what we do).\""
+  },
+  {
+    "id": "75",
+    "arabic": "قَالَ أَفَرَأَيْتُم مَّا كُنتُمْ تَعْبُدُونَ",
+    "bangla": "ইব্রাহীম বললেন, তোমরা কি তাদের সম্পর্কে ভেবে দেখেছ, যাদের পূজা করে আসছ।",
+    "english": "He said: \"Do ye then see whom ye have been worshipping,-"
+  },
+  {
+    "id": "76",
+    "arabic": "أَنتُمْ وَآبَاؤُكُمُ الْأَقْدَمُونَ",
+    "bangla": "তোমরা এবং তোমাদের পূর্ববর্তী পিতৃপুরুষেরা ?",
+    "english": "\"Ye and your fathers before you?-"
+  },
+  {
+    "id": "77",
+    "arabic": "فَإِنَّهُمْ عَدُوٌّ لِّي إِلَّا رَبَّ الْعَالَمِينَ",
+    "bangla": "বিশ্বপালনকর্তা ব্যতীত তারা সবাই আমার শত্রু।",
+    "english": "\"For they are enemies to me; not so the Lord and Cherisher of the Worlds;"
+  },
+  {
+    "id": "78",
+    "arabic": "الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ",
+    "bangla": "যিনি আমাকে সৃষ্টি করেছেন, অতঃপর তিনিই আমাকে পথপ্রদর্শন করেন,",
+    "english": "\"Who created me, and it is He Who guides me;"
+  },
+  {
+    "id": "79",
+    "arabic": "وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ",
+    "bangla": "যিনি আমাকে আহার এবং পানীয় দান করেন,",
+    "english": "\"Who gives me food and drink,"
+  },
+  {
+    "id": "80",
+    "arabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+    "bangla": "যখন আমি রোগাক্রান্ত হই, তখন তিনিই আরোগ্য দান করেন।",
+    "english": "\"And when I am ill, it is He Who cures me;"
+  },
+  {
+    "id": "81",
+    "arabic": "وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ",
+    "bangla": "যিনি আমার মৃত্যু ঘটাবেন, অতঃপর পুনর্জীবন দান করবেন।",
+    "english": "\"Who will cause me to die, and then to life (again);"
+  },
+  {
+    "id": "82",
+    "arabic": "وَالَّذِي أَطْمَعُ أَن يَغْفِرَ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
+    "bangla": "আমি আশা করি তিনিই বিচারের দিনে আমার ক্রটি-বিচ্যুতি মাফ করবেন।",
+    "english": "\"And who, I hope, will forgive me my faults on the day of Judgment."
+  },
+  {
+    "id": "83",
+    "arabic": "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+    "bangla": "হে আমার পালনকর্তা, আমাকে প্রজ্ঞা দান কর এবং আমাকে সৎকর্মশীলদের অন্তর্ভুক্ত কর",
+    "english": "\"O my Lord! bestow wisdom on me, and join me with the righteous;"
+  },
+  {
+    "id": "84",
+    "arabic": "وَاجْعَل لِّي لِسَانَ صِدْقٍ فِي الْآخِرِينَ",
+    "bangla": "এবং আমাকে পরবর্তীদের মধ্যে সত্যভাষী কর।",
+    "english": "\"Grant me honourable mention on the tongue of truth among the latest (generations);"
+  },
+  {
+    "id": "85",
+    "arabic": "وَاجْعَلْنِي مِن وَرَثَةِ جَنَّةِ النَّعِيمِ",
+    "bangla": "এবং আমাকে নেয়ামত উদ্যানের অধিকারীদের অন্তর্ভূক্ত কর।",
+    "english": "\"Make me one of the inheritors of the Garden of Bliss;"
+  },
+  {
+    "id": "86",
+    "arabic": "وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ",
+    "bangla": "এবং আমার পিতাকে ক্ষমা কর। সে তো পথভ্রষ্টদের অন্যতম।",
+    "english": "\"Forgive my father, for that he is among those astray;"
+  },
+  {
+    "id": "87",
+    "arabic": "وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ",
+    "bangla": "এবং পূনরুত্থান দিবসে আমাকে লাঞ্ছিত করো না,",
+    "english": "\"And let me not be in disgrace on the Day when (men) will be raised up;-"
+  },
+  {
+    "id": "88",
+    "arabic": "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ",
+    "bangla": "যে দিবসে ধন-সম্পদ ও সন্তান সন্ততি কোন উপকারে আসবে না;",
+    "english": "\"The Day whereon neither wealth nor sons will avail,"
+  },
+  {
+    "id": "89",
+    "arabic": "إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ",
+    "bangla": "কিন্তু যে সুস্থ অন্তর নিয়ে আল্লাহর কাছে আসবে।",
+    "english": "\"But only he (will prosper) that brings to Allah a sound heart;"
+  },
+  {
+    "id": "90",
+    "arabic": "وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ",
+    "bangla": "জান্নাত আল্লাহভীরুদের নিকটবর্তী করা হবে।",
+    "english": "\"To the righteous, the Garden will be brought near,"
+  },
+  {
+    "id": "91",
+    "arabic": "وَبُرِّزَتِ الْجَحِيمُ لِلْغَاوِينَ",
+    "bangla": "এবং বিপথগামীদের সামনে উম্মোচিত করা হবে জাহান্নাম।",
+    "english": "\"And to those straying in Evil, the Fire will be placed in full view;"
+  },
+  {
+    "id": "92",
+    "arabic": "وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ",
+    "bangla": "তাদেরকে বলা হবেঃ তারা কোথায়, তোমরা যাদের পূজা করতে।",
+    "english": "\"And it shall be said to them: 'Where are the (gods) ye worshipped-"
+  },
+  {
+    "id": "93",
+    "arabic": "مِن دُونِ اللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ",
+    "bangla": "আল্লাহর পরিবর্তে? তারা কি তোমাদের সাহায্য করতে পারে, অথবা তারা প্রতিশোধ নিতে পারে?",
+    "english": "\"'Besides Allah. Can they help you or help themselves?'"
+  },
+  {
+    "id": "94",
+    "arabic": "فَكُبْكِبُوا فِيهَا هُمْ وَالْغَاوُونَ",
+    "bangla": "অতঃপর তাদেরকে এবং পথভ্রষ্টদেরকে আধোমুখি করে নিক্ষেপ করা হবে জাহান্নামে।",
+    "english": "\"Then they will be thrown headlong into the (Fire),- they and those straying in Evil,"
+  },
+  {
+    "id": "95",
+    "arabic": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+    "bangla": "এবং ইবলীস বাহিনীর সকলকে।",
+    "english": "\"And the whole hosts of Iblis together."
+  },
+  {
+    "id": "96",
+    "arabic": "قَالُوا وَهُمْ فِيهَا يَخْتَصِمُونَ",
+    "bangla": "তারা তথায় কথা কাটাকাটিতে লিপ্ত হয়ে বলবেঃ",
+    "english": "\"They will say there in their mutual bickerings:"
+  },
+  {
+    "id": "97",
+    "arabic": "تَاللَّهِ إِن كُنَّا لَفِي ضَلَالٍ مُّبِينٍ",
+    "bangla": "আল্লাহর কসম, আমরা প্রকাশ্য বিভ্রান্তিতে লিপ্ত ছিলাম।",
+    "english": "\"'By Allah, we were truly in an error manifest,"
+  },
+  {
+    "id": "98",
+    "arabic": "إِذْ نُسَوِّيكُم بِرَبِّ الْعَالَمِينَ",
+    "bangla": "যখন আমরা তোমাদেরকে বিশ্ব-পালনকর্তার সমতুল্য গন্য করতাম।",
+    "english": "\"'When we held you as equals with the Lord of the Worlds;"
+  },
+  {
+    "id": "99",
+    "arabic": "وَمَا أَضَلَّنَا إِلَّا الْمُجْرِمُونَ",
+    "bangla": "আমাদেরকে দুষ্টকর্মীরাই গোমরাহ করেছিল।",
+    "english": "\"'And our seducers were only those who were steeped in guilt."
+  },
+  {
+    "id": "100",
+    "arabic": "فَمَا لَنَا مِن شَافِعِينَ",
+    "bangla": "অতএব আমাদের কোন সুপারিশকারী নেই।",
+    "english": "\"'Now, then, we have none to intercede (for us),"
+  },
+  {
+    "id": "101",
+    "arabic": "وَلَا صَدِيقٍ حَمِيمٍ",
+    "bangla": "এবং কোন সহৃদয় বন্ধু ও নেই।",
+    "english": "\"'Nor a single friend to feel (for us)."
+  },
+  {
+    "id": "102",
+    "arabic": "فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+    "bangla": "হায়, যদি কোনরুপে আমরা পৃথিবীতে প্রত্যাবর্তনের সুযোগ পেতাম, তবে আমরা বিশ্বাস স্থাপনকারী হয়ে যেতাম।",
+    "english": "\"'Now if we only had a chance of return we shall truly be of those who believe!'\""
+  },
+  {
+    "id": "103",
+    "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "bangla": "নিশ্চয়, এতে নিদর্শন আছে এবং তাদের অধিকাংশই বিশ্বাসী নয়।",
+    "english": "Verily in this is a Sign but most of them do not believe."
+  },
+  {
+    "id": "104",
+    "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    "bangla": "আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+    "english": "And verily thy Lord is He, the Exalted in Might, Most Merciful."
+  },
+  {
+    "id": "105",
+    "arabic": "كَذَّبَتْ قَوْمُ نُوحٍ الْمُرْسَلِينَ",
+    "bangla": "নূহের সম্প্রদায় পয়গম্বরগণকে মিথ্যারোপ করেছে।",
+    "english": "The people of Noah rejected the apostles."
+  },
+  {
+    "id": "106",
+    "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+    "bangla": "যখন তাদের ভ্রাতা নূহ তাদেরকে বললেন, তোমাদের কি ভয় নেই?",
+    "english": "Behold, their brother Noah said to them: \"Will ye not fear ((Allah))?"
+  },
+  {
+    "id": "107",
+    "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+    "bangla": "আমি তোমাদের জন্য বিশ্বস্ত বার্তাবাহক।",
+    "english": "\"I am to you an apostle worthy of all trust:"
+  },
+  {
+    "id": "108",
+    "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+    "bangla": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+    "english": "\"So fear Allah, and obey me."
+  },
+  {
+    "id": "109",
+    "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+    "bangla": "আমি তোমাদের কাছে এর জন্য কোন প্রতিদান চাই না, আমার প্রতিদান তো বিশ্ব-পালনকর্তাই দেবেন।",
+    "english": "\"No reward do I ask of you for it: my reward is only from the Lord of the Worlds:"
+  },
+  {
+    "id": "110",
+    "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+    "bangla": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+    "english": "\"So fear Allah, and obey me.\""
+  },
+  {
+    "id": "111",
+    "arabic": "قَالُوا أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْأَرْذَلُونَ",
+    "bangla": "তারা বলল, আমরা কি তোমাকে মেনে নেব যখন তোমার অনুসরণ করছে ইতরজনেরা?",
+    "english": "They said: \"Shall we believe in thee when it is the meanest that follow thee?\""
+  },
+  {
+    "id": "112",
+    "arabic": "قَالَ وَمَا عِلْمِي بِمَا كَانُوا يَعْمَلُونَ",
+    "bangla": "নূহ বললেন, তারা কি কাজ করছে, তা জানা আমার কি দরকার?",
+    "english": "He said: \"And what do I know as to what they do?"
+  },
+  {
+    "id": "113",
+    "arabic": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّي ۖ لَوْ تَشْعُرُونَ",
+    "bangla": "তাদের হিসাব নেয়া আমার পালনকর্তারই কাজ; যদি তোমরা বুঝতে!",
+    "english": "\"Their account is only with my Lord, if ye could (but) understand."
+  },
+  {
+    "id": "114",
+    "arabic": "وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ",
+    "bangla": "আমি মুমিনগণকে তাড়িয়ে দেয়ার লোক নই।",
+    "english": "\"I am not one to drive away those who believe."
+  },
+  {
+    "id": "115",
+    "arabic": "إِنْ أَنَا إِلَّا نَذِيرٌ مُّبِينٌ",
+    "bangla": "আমি তো শুধু একজন সুস্পষ্ট সতর্ককারী।",
+    "english": "\"I am sent only to warn plainly in public.\""
+  },
+  {
+    "id": "116",
+    "arabic": "قَالُوا لَئِن لَّمْ تَنتَهِ يَا نُوحُ لَتَكُونَنَّ مِنَ الْمَرْجُومِينَ",
+    "bangla": "তারা বলল, হে নূহ যদি তুমি বিরত না হও, তবে তুমি নিশ্চিতই প্রস্তরাঘাতে নিহত হবে।",
+    "english": "They said: \"If thou desist not, O Noah! thou shalt be stoned (to death).\""
+  },
+  {
+    "id": "117",
+    "arabic": "قَالَ رَبِّ إِنَّ قَوْمِي كَذَّبُونِ",
+    "bangla": "নূহ বললেন, হে আমার পালনকর্তা, আমার সম্প্রদায় তো আমাকে মিথ্যাবাদী বলছে।",
+    "english": "He said: \"O my Lord! truly my people have rejected me."
+  },
+  {
+    "id": "118",
+    "arabic": "فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَن مَّعِيَ مِنَ الْمُؤْمِنِينَ",
+    "bangla": "অতএব, আমার ও তাদের মধ্যে কোন ফয়সালা করে দিন এবং আমাকে ও আমার সংগী মুমিনগণকে রক্ষা করুন।",
+    "english": "\"Judge Thou, then, between me and them openly, and deliver me and those of the Believers who are with me.\""
+  },
+  {
+    "id": "119",
+    "arabic": "فَأَنجَيْنَاهُ وَمَن مَّعَهُ فِي الْفُلْكِ الْمَشْحُونِ",
+    "bangla": "অতঃপর আমি তাঁকে ও তাঁর সঙ্গিগণকে বোঝাই করা নৌকায় রক্ষা করলাম।",
+    "english": "So We delivered him and those with him, in the Ark filled (with all creatures)."
+  },
+  {
+    "id": "120",
+    "arabic": "ثُمَّ أَغْرَقْنَا بَعْدُ الْبَاقِينَ",
+    "bangla": "এরপর অবশিষ্ট সবাইকে নিমজ্জত করলাম।",
+    "english": "Thereafter We drowned those who remained behind."
+  },
+  {
+    "id": "121",
+    "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "bangla": "নিশ্চয় এতে নিদর্শন আছে এবং তাদের অধিকাংশই বিশ্বাসী নয়।",
+    "english": "Verily in this is a Sign: but most of them do not believe."
+  },
+  {
+    "id": "122",
+    "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    "bangla": "নিশ্চয় আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+    "english": "And verily thy Lord is He, the Exalted in Might, Most Merciful."
+  },
+  {
+    "id": "123",
+    "arabic": "كَذَّبَتْ عَادٌ الْمُرْسَلِينَ",
+    "bangla": "আদ সম্প্রদায় পয়গম্বরগণকে মিথ্যাবাদী বলেছে।",
+    "english": "The 'Ad (people) rejected the apostles."
+  },
+  {
+    "id": "124",
+    "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
+    "bangla": "তখন তাদের ভাই হুদ তাদেরকে বললেনঃ তোমাদের কি ভয় নেই?",
+    "english": "Behold, their brother Hud said to them: \"Will ye not fear ((Allah))?"
+  },
+  {
+    "id": "125",
+    "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+    "bangla": "আমি তোমাদের বিশ্বস্ত রসূল।",
+    "english": "\"I am to you an apostle worthy of all trust:"
+  },
+  {
+    "id": "126",
+    "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+    "bangla": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+    "english": "\"So fear Allah and obey me."
+  },
+  {
+    "id": "127",
+    "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+    "bangla": "আমি তোমাদের কাছে এর জন্যে প্রতিদান চাই না। আমার প্রতিদান তো পালনকর্তা দেবেন।",
+    "english": "\"No reward do I ask of you for it: my reward is only from the Lord of the Worlds."
+  },
+  {
+    "id": "128",
+    "arabic": "أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ",
+    "bangla": "তোমরা কি প্রতিটি উচ্চস্থানে অযথা নিদর্শন নির্মান করছ?",
+    "english": "\"Do ye build a landmark on every high place to amuse yourselves?"
+  },
+  {
+    "id": "129",
+    "arabic": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
+    "bangla": "এবং বড় বড় প্রাসাদ নির্মাণ করছ, যেন তোমরা চিরকাল থাকবে?",
+    "english": "\"And do ye get for yourselves fine buildings in the hope of living therein (for ever)?"
+  },
+  {
+    "id": "130",
+    "arabic": "وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ",
+    "bangla": "যখন তোমরা আঘাত হান, তখন জালেম ও নিষ্ঠুরের মত আঘাত হান।",
+    "english": "\"And when ye exert your strong hand, do ye do it like men of absolute power?"
+  },
+  {
+    "id": "131",
+    "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+    "bangla": "অতএব, আল্লাহকে ভয় কর এবং আমার অনুগত্য কর।",
+    "english": "\"Now fear Allah, and obey me."
+  },
+  {
+    "id": "132",
+    "arabic": "وَاتَّقُوا الَّذِي أَمَدَّكُم بِمَا تَعْلَمُونَ",
+    "bangla": "ভয় কর তাঁকে, যিনি তোমাদেরকে সেসব বস্তু দিয়েছেন, যা তোমরা জান।",
+    "english": "\"Yea, fear Him Who has bestowed on you freely all that ye know."
+  },
+  {
+    "id": "133",
+    "arabic": "أَمَدَّكُم بِأَنْعَامٍ وَبَنِينَ",
+    "bangla": "তোমাদেরকে দিয়েছেন চতুষ্পদ জন্তু ও পুত্র-সন্তান,",
+    "english": "\"Freely has He bestowed on you cattle and sons,-"
+  },
+  {
+    "id": "134",
+    "arabic": "وَجَنَّاتٍ وَعُيُونٍ",
+    "bangla": "এবং উদ্যান ও ঝরণা।",
+    "english": "\"And Gardens and Springs."
+  },
+  {
+    "id": "135",
+    "arabic": "إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+    "bangla": "আমি তোমাদের জন্যে মহাদিবসের শাস্তি আশংকা করি।",
+    "english": "\"Truly I fear for you the Penalty of a Great Day.\""
+  },
+  {
+    "id": "136",
+    "arabic": "قَالُوا سَوَاءٌ عَلَيْنَا أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ الْوَاعِظِينَ",
+    "bangla": "তারা বলল, তুমি উপদেশ দাও অথবা উপদেশ নাই দাও, উভয়ই আমাদের জন্যে সমান।",
+    "english": "They said: \"It is the same to us whether thou admonish us or be not among (our) admonishers!"
+  },
+  {
+    "id": "137",
+    "arabic": "إِنْ هَـٰذَا إِلَّا خُلُقُ الْأَوَّلِينَ",
+    "bangla": "এসব কথাবার্তা পূর্ববর্তী লোকদের অভ্যাস বৈ নয়।",
+    "english": "\"This is no other than a customary device of the ancients,"
+  },
+  {
+    "id": "138",
+    "arabic": "وَمَا نَحْنُ بِمُعَذَّبِينَ",
+    "bangla": "আমরা শাস্তিপ্রাপ্ত হব না।",
+    "english": "\"And we are not the ones to receive Pains and Penalties!\""
+  },
+  {
+    "id": "139",
+    "arabic": "فَكَذَّبُوهُ فَأَهْلَكْنَاهُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "bangla": "অতএব, তারা তাঁকে মিথ্যাবাদী বলতে লাগল এবং আমি তাদেরকে নিপাত করে দিলাম। এতে অবশ্যই নিদর্শন আছে; কিন্তু তাদের অধিকাংশই বিশ্বাসী নয়।",
+    "english": "So they rejected him, and We destroyed them. Verily in this is a Sign: but most of them do not believe."
+  },
+  {
+    "id": "140",
+    "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    "bangla": "এবং আপনার পালনকর্তা, তিনি তো প্রবল পরাক্রমশালী, পরম দয়ালু।",
+    "english": "And verily thy Lord is He, the Exalted in Might, Most Merciful."
+  },
+  {
+    "id": "141",
+    "arabic": "كَذَّبَتْ ثَمُودُ الْمُرْسَلِينَ",
+    "bangla": "সামুদ সম্প্রদায় পয়গম্বরগণকে মিথ্যাবাদী বলেছে।",
+    "english": "The Thamud (people) rejected the apostles."
+  },
+  {
+    "id": "142",
+    "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَالِحٌ أَلَا تَتَّقُونَ",
+    "bangla": "যখন তাদের ভাই সালেহ, তাদেরকে বললেন, তোমরা কি ভয় কর না?",
+    "english": "Behold, their brother Salih said to them: \"Will you not fear ((Allah))?"
+  },
+  {
+    "id": "143",
+    "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+    "bangla": "আমি তোমাদের বিশ্বস্ত পয়গম্বর।",
+    "english": "\"I am to you an apostle worthy of all trust."
+  },
+  {
+    "id": "144",
+    "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+    "bangla": "অতএব, আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+    "english": "\"So fear Allah, and obey me."
+  },
+  {
+    "id": "145",
+    "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+    "bangla": "আমি এর জন্যে তোমাদের কাছে কোন প্রতিদান চাই না। আমার প্রতিদান তো বিশ্ব-পালনকর্তাই দেবেন।",
+    "english": "\"No reward do I ask of you for it: my reward is only from the Lord of the Worlds."
+  },
+  {
+    "id": "146",
+    "arabic": "أَتُتْرَكُونَ فِي مَا هَاهُنَا آمِنِينَ",
+    "bangla": "তোমাদেরকে কি এ জগতের ভোগ-বিলাসের মধ্যে নিরাপদে রেখে দেয়া হবে?",
+    "english": "\"Will ye be left secure, in (the enjoyment of) all that ye have here?-"
+  },
+  {
+    "id": "147",
+    "arabic": "فِي جَنَّاتٍ وَعُيُونٍ",
+    "bangla": "উদ্যানসমূহের মধ্যে এবং ঝরণাসমূহের মধ্যে ?",
+    "english": "\"Gardens and Springs,"
+  },
+  {
+    "id": "148",
+    "arabic": "وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ",
+    "bangla": "শস্যক্ষেত্রের মধ্যে এবং মঞ্জুরিত খেজুর বাগানের মধ্যে ?",
+    "english": "\"And corn-fields and date-palms with spathes near breaking (with the weight of fruit)?"
+  },
+  {
+    "id": "149",
+    "arabic": "وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ",
+    "bangla": "তোমরা পাহাড় কেটে জাঁক জমকের গৃহ নির্মাণ করছ।",
+    "english": "\"And ye carve houses out of (rocky) mountains with great skill."
+  },
+  {
+    "id": "150",
+    "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+    "bangla": "সুতরাং তোমরা আল্লাহকে ভয় কর এবং আমার অনুগত্য কর।",
+    "english": "\"But fear Allah and obey me;"
+  },
+  {
+    "id": "151",
+    "arabic": "وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ",
+    "bangla": "এবং সীমালংঘনকারীদের আদেশ মান্য কর না;",
+    "english": "\"And follow not the bidding of those who are extravagant,-"
+  },
+  {
+    "id": "152",
+    "arabic": "الَّذِينَ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ",
+    "bangla": "যারা পৃথিবীতে অনর্থ সৃষ্টি করে এবং শান্তি স্থাপন করে না;",
+    "english": "\"Who make mischief in the land, and mend not (their ways).\""
+  },
+  {
+    "id": "153",
+    "arabic": "قَالُوا إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ",
+    "bangla": "তারা বলল, তুমি তো জাদুগ্রস্থুরেদ একজন।",
+    "english": "They said: \"Thou art only one of those bewitched!"
+  },
+  {
+    "id": "154",
+    "arabic": "مَا أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا فَأْتِ بِآيَةٍ إِن كُنتَ مِنَ الصَّادِقِينَ",
+    "bangla": "তুমি তো আমাদের মতই একজন মানুষ বৈ নও। সুতরাং যদি তুমি সত্যবাদী হও, তবে কোন নিদর্শন উপস্থিত কর।",
+    "english": "\"Thou art no more than a mortal like us: then bring us a Sign, if thou tellest the truth!\""
+  },
+  {
+    "id": "155",
+    "arabic": "قَالَ هَـٰذِهِ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ",
+    "bangla": "সালেহ বললেন এই উষ্ট্রী, এর জন্যে আছে পানি পানের পালা এবং তোমাদের জন্যে আছে পানি পানের পালা নির্দিষ্ট এক-এক দিনের।",
+    "english": "He said: \"Here is a she-camel: she has a right of watering, and ye have a right of watering, (severally) on a day appointed."
+  },
+  {
+    "id": "156",
+    "arabic": "وَلَا تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
+    "bangla": "তোমরা একে কোন কষ্ট দিও না। তাহলে তোমাদেরকে মহাদিবসের আযাব পাকড়াও করবে।",
+    "english": "\"Touch her not with harm, lest the Penalty of a Great Day seize you.\""
+  },
+  {
+    "id": "157",
+    "arabic": "فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ",
+    "bangla": "তারা তাকে বধ করল ফলে, তারা অনুতপ্ত হয়ে গেল।",
+    "english": "But they ham-strung her: then did they become full of regrets."
+  },
+  {
+    "id": "158",
+    "arabic": "فَأَخَذَهُمُ الْعَذَابُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "bangla": "এরপর আযাব তাদেরকে পাকড়াও করল। নিশ্চয় এতে নিদর্শন আছে। কিন্তু তাদের অধিকাংশই বিশ্বাসী নয়।",
+    "english": "But the Penalty seized them. Verily in this is a Sign: but most of them do not believe."
+  },
+  {
+    "id": "159",
+    "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    "bangla": "আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+    "english": "And verily thy Lord is He, the Exalted in Might, Most Merciful."
+  },
+  {
+    "id": "160",
+    "arabic": "كَذَّبَتْ قَوْمُ لُوطٍ الْمُرْسَلِينَ",
+    "bangla": "লূতের সম্প্রদায় পয়গম্বরগণকে মিথ্যাবাদী বলেছে।",
+    "english": "The people of Lut rejected the apostles."
+  },
+  {
+    "id": "161",
+    "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ",
+    "bangla": "যখন তাদের ভাই লূত তাদেরকে বললেন, তোমরা কি ভয় কর না ?",
+    "english": "Behold, their brother Lut said to them: \"Will ye not fear ((Allah))?"
+  },
+  {
+    "id": "162",
+    "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+    "bangla": "আমি তোমাদের বিশ্বস্ত পয়গম্বর।",
+    "english": "\"I am to you an apostle worthy of all trust."
+  },
+  {
+    "id": "163",
+    "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+    "bangla": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+    "english": "\"So fear Allah and obey me."
+  },
+  {
+    "id": "164",
+    "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+    "bangla": "আমি এর জন্যে তোমাদের কাছে কোন প্রতিদান চাই না। আমার প্রতিদান তো বিশ্ব-পালনকর্তা দেবেন।",
+    "english": "\"No reward do I ask of you for it: my reward is only from the lord of the Worlds."
+  },
+  {
+    "id": "165",
+    "arabic": "أَتَأْتُونَ الذُّكْرَانَ مِنَ الْعَالَمِينَ",
+    "bangla": "সারা জাহানের মানুষের মধ্যে তোমরাই কি পুরূষদের সাথে কুকর্ম কর?",
+    "english": "\"Of all the creatures in the world, will ye approach males,"
+  },
+  {
+    "id": "166",
+    "arabic": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَاجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ",
+    "bangla": "এবং তোমাদের পালনকর্তা তোমাদের জন্যে যে স্ত্রীগনকে সৃষ্টি করেছেন, তাদেরকে বর্জন কর? বরং তোমরা সীমালঙ্ঘনকারী সম্প্রদায়।",
+    "english": "\"And leave those whom Allah has created for you to be your mates? Nay, ye are a people transgressing (all limits)!\""
+  },
+  {
+    "id": "167",
+    "arabic": "قَالُوا لَئِن لَّمْ تَنتَهِ يَا لُوطُ لَتَكُونَنَّ مِنَ الْمُخْرَجِينَ",
+    "bangla": "তারা বলল, হে লূত, তুমি যদি বিরত না হও, তবে অবশ্যই তোমাকে বহিস্কৃত করা হবে।",
+    "english": "They said: \"If thou desist not, O Lut! thou wilt assuredly be cast out!\""
+  },
+  {
+    "id": "168",
+    "arabic": "قَالَ إِنِّي لِعَمَلِكُم مِّنَ الْقَالِينَ",
+    "bangla": "লূত বললেন, আমি তোমাদের এই কাজকে ঘৃণা করি।",
+    "english": "He said: \"I do detest your doings.\""
+  },
+  {
+    "id": "169",
+    "arabic": "رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ",
+    "bangla": "হে আমার পালনকর্তা, আমাকে এবং আমার পরিবারবর্গকে তারা যা করে, তা থেকে রক্ষা কর।",
+    "english": "\"O my Lord! deliver me and my family from such things as they do!\""
+  },
+  {
+    "id": "170",
+    "arabic": "فَنَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ",
+    "bangla": "অতঃপর আমি তাঁকে ও তাঁর পরিবারবর্গকে রক্ষা করলাম।",
+    "english": "So We delivered him and his family,- all"
+  },
+  {
+    "id": "171",
+    "arabic": "إِلَّا عَجُوزًا فِي الْغَابِرِينَ",
+    "bangla": "এক বৃদ্ধা ব্যতীত, সে ছিল ধ্বংস প্রাপ্তদের অন্তর্ভুক্ত।",
+    "english": "Except an old woman who lingered behind."
+  },
+  {
+    "id": "172",
+    "arabic": "ثُمَّ دَمَّرْنَا الْآخَرِينَ",
+    "bangla": "এরপর অন্যদেরকে নিপাত করলাম।",
+    "english": "But the rest We destroyed utterly."
+  },
+  {
+    "id": "173",
+    "arabic": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَاءَ مَطَرُ الْمُنذَرِينَ",
+    "bangla": "তাদের উপর এক বিশেষ বৃষ্টি বর্ষণ করলাম। ভীতি-প্রদর্শিত দের জন্যে এই বৃষ্টি ছিল কত নিকৃষ্ট।",
+    "english": "We rained down on them a shower (of brimstone): and evil was the shower on those who were admonished (but heeded not)!"
+  },
+  {
+    "id": "174",
+    "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "bangla": "নিশ্চয়ই এতে নিদর্শন রয়েছে; কিন্তু তাদের অধিকাংশই বিশ্বাসী নয়।",
+    "english": "Verily in this is a Sign: but most of them do not believe."
+  },
+  {
+    "id": "175",
+    "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    "bangla": "নিশ্চয়ই আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+    "english": "And verily thy Lord is He, the Exalted in Might Most Merciful."
+  },
+  {
+    "id": "176",
+    "arabic": "كَذَّبَ أَصْحَابُ الْأَيْكَةِ الْمُرْسَلِينَ",
+    "bangla": "বনের অধিবাসীরা পয়গম্বরগণকে মিথ্যাবাদী বলেছে।",
+    "english": "The Companions of the Wood rejected the apostles."
+  },
+  {
+    "id": "177",
+    "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+    "bangla": "যখন শো’আয়ব তাদের কে বললেন, তোমরা কি ভয় কর না?",
+    "english": "Behold, Shu'aib said to them: \"Will ye not fear ((Allah))?"
+  },
+  {
+    "id": "178",
+    "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+    "bangla": "আমি তোমাদের বিশ্বস্ত পয়গম্বর।",
+    "english": "\"I am to you an apostle worthy of all trust."
+  },
+  {
+    "id": "179",
+    "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+    "bangla": "অতএব, তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+    "english": "\"So fear Allah and obey me."
+  },
+  {
+    "id": "180",
+    "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+    "bangla": "আমি তোমাদের কাছে এর জন্য কোন প্রতিদান চাই না। আমার প্রতিদান তো বিশ্ব-পালনকর্তাই দেবেন।",
+    "english": "\"No reward do I ask of you for it: my reward is only from the Lord of the Worlds."
+  },
+  {
+    "id": "181",
+    "arabic": "أَوْفُوا الْكَيْلَ وَلَا تَكُونُوا مِنَ الْمُخْسِرِينَ",
+    "bangla": "মাপ পূর্ণ কর এবং যারা পরিমাপে কম দেয়, তাদের অন্তর্ভুক্ত হয়ো না।",
+    "english": "\"Give just measure, and cause no loss (to others by fraud)."
+  },
+  {
+    "id": "182",
+    "arabic": "وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ",
+    "bangla": "সোজা দাঁড়ি-পাল্লায় ওজন কর।",
+    "english": "\"And weigh with scales true and upright."
+  },
+  {
+    "id": "183",
+    "arabic": "وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+    "bangla": "মানুষকে তাদের বস্তু কম দিও না এবং পৃথিবীতে অনর্থ সৃষ্টি করে ফিরো না।",
+    "english": "\"And withhold not things justly due to men, nor do evil in the land, working mischief."
+  },
+  {
+    "id": "184",
+    "arabic": "وَاتَّقُوا الَّذِي خَلَقَكُمْ وَالْجِبِلَّةَ الْأَوَّلِينَ",
+    "bangla": "ভয় কর তাঁকে, যিনি তোমাদেরকে এবং তোমাদের পূর্ববর্তী লোক-সম্প্রদায়কে সৃষ্টি করেছেন।",
+    "english": "\"And fear Him Who created you and (who created) the generations before (you)\""
+  },
+  {
+    "id": "185",
+    "arabic": "قَالُوا إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ",
+    "bangla": "তারা বলল, তুমি তো জাদুগ্রস্তদের অন্যতম।",
+    "english": "They said: \"Thou art only one of those bewitched!"
+  },
+  {
+    "id": "186",
+    "arabic": "وَمَا أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ الْكَاذِبِينَ",
+    "bangla": "তুমি আমাদের মত মানুষ বৈ তো নও। আমাদের ধারণা-তুমি মিথ্যাবাদীদের অন্তর্ভুক্ত।",
+    "english": "\"Thou art no more than a mortal like us, and indeed we think thou art a liar!"
+  },
+  {
+    "id": "187",
+    "arabic": "فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ السَّمَاءِ إِن كُنتَ مِنَ الصَّادِقِينَ",
+    "bangla": "অতএব, যদি সত্যবাদী হও, তবে আকাশের কোন টুকরো আমাদের উপর ফেলে দাও।",
+    "english": "\"Now cause a piece of the sky to fall on us, if thou art truthful!\""
+  },
+  {
+    "id": "188",
+    "arabic": "قَالَ رَبِّي أَعْلَمُ بِمَا تَعْمَلُونَ",
+    "bangla": "শো’আয়ব বললেন, তোমরা যা কর, সে সম্পর্কে আমার পালনকর্তা ভালরূপে অবহিত।",
+    "english": "He said: \"My Lord knows best what ye do.\""
+  },
+  {
+    "id": "189",
+    "arabic": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۚ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
+    "bangla": "অতঃপর তারা তাঁকে মিথ্যাবাদী বলে দিল। ফলে তাদেরকে মেঘাচ্ছন্ন দিবসের আযাব পাকড়াও করল। নিশ্চয় সেটা ছিল এক মহাদিবসের আযাব।",
+    "english": "But they rejected him. Then the punishment of a day of overshadowing gloom seized them, and that was the Penalty of a Great Day."
+  },
+  {
+    "id": "190",
+    "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+    "bangla": "নিশ্চয় এতে নিদর্শন রয়েছে; কিন্তু তাদের অধিকাংশই বিশ্বাস করে না।",
+    "english": "Verily in that is a Sign: but most of them do not believe."
+  },
+  {
+    "id": "191",
+    "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+    "bangla": "নিশ্চয় আপনার পালনকর্তা প্রবল পরাক্রমশালী, পরম দয়ালু।",
+    "english": "And verily thy Lord is He, the Exalted in Might, Most Merciful."
+  },
+  {
+    "id": "192",
+    "arabic": "وَإِنَّهُ لَتَنزِيلُ رَبِّ الْعَالَمِينَ",
+    "bangla": "এই কোরআন তো বিশ্ব-জাহানের পালনকর্তার নিকট থেকে অবতীর্ণ।",
+    "english": "Verily this is a Revelation from the Lord of the Worlds:"
+  },
+  {
+    "id": "193",
+    "arabic": "نَزَلَ بِهِ الرُّوحُ الْأَمِينُ",
+    "bangla": "বিশ্বস্ত ফেরেশতা একে নিয়ে অবতরণ করেছে।",
+    "english": "With it came down the spirit of Faith and Truth-"
+  },
+  {
+    "id": "194",
+    "arabic": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ",
+    "bangla": "আপনার অন্তরে, যাতে আপনি ভীতি প্রদর্শণকারীদের অন্তর্ভুক্ত হন,",
+    "english": "To thy heart and mind, that thou mayest admonish."
+  },
+  {
+    "id": "195",
+    "arabic": "بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ",
+    "bangla": "সুস্পষ্ট আরবী ভাষায়।",
+    "english": "In the perspicuous Arabic tongue."
+  },
+  {
+    "id": "196",
+    "arabic": "وَإِنَّهُ لَفِي زُبُرِ الْأَوَّلِينَ",
+    "bangla": "নিশ্চয় এর উল্লেখ আছে পূর্ববর্তী কিতাবসমূহে।",
+    "english": "Without doubt it is (announced) in the mystic Books of former peoples."
+  },
+  {
+    "id": "197",
+    "arabic": "أَوَلَمْ يَكُن لَّهُمْ آيَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِي إِسْرَائِيلَ",
+    "bangla": "তাদের জন্যে এটা কি নিদর্শন নয় যে, বনী-ইসরাঈলের আলেমগণ এটা অবগত আছে?",
+    "english": "Is it not a Sign to them that the Learned of the Children of Israel knew it (as true)?"
+  },
+  {
+    "id": "198",
+    "arabic": "وَلَوْ نَزَّلْنَاهُ عَلَىٰ بَعْضِ الْأَعْجَمِينَ",
+    "bangla": "যদি আমি একে কোন ভিন্নভাষীর প্রতি অবতীর্ণ করতাম,",
+    "english": "Had We revealed it to any of the non-Arabs,"
+  },
+  {
+    "id": "199",
+    "arabic": "فَقَرَأَهُ عَلَيْهِم مَّا كَانُوا بِهِ مُؤْمِنِينَ",
+    "bangla": "অতঃপর তিনি তা তাদের কাছে পাঠ করতেন, তবে তারা তাতে বিশ্বাস স্থাপন করত না।",
+    "english": "And had he recited it to them, they would not have believed in it."
+  },
+  {
+    "id": "200",
+    "arabic": "كَذَٰلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ",
+    "bangla": "এমনিভাবে আমি গোনাহগারদের অন্তরে অবিশ্বাস সঞ্চার করেছি।",
+    "english": "Thus have We caused it to enter the hearts of the sinners."
+  },
+  {
+    "id": "201",
+    "arabic": "لَا يُؤْمِنُونَ بِهِ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ",
+    "bangla": "তারা এর প্রতি বিশ্বাস স্থাপন করবে না, যে পর্যন্ত প্রত্যক্ষ না করে মর্মন্তুদ আযাব।",
+    "english": "They will not believe in it until they see the grievous Penalty;"
+  },
+  {
+    "id": "202",
+    "arabic": "فَيَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+    "bangla": "অতঃপর তা আকস্মিকভাবে তাদের কাছে এসে পড়বে, তারা তা বুঝতে ও পারবে না।",
+    "english": "But the (Penalty) will come to them of a sudden, while they perceive it not;"
+  },
+  {
+    "id": "203",
+    "arabic": "فَيَقُولُوا هَلْ نَحْنُ مُنظَرُونَ",
+    "bangla": "তখন তারা বলবে, আমরা কি অবকাশ পাব না?",
+    "english": "Then they will say: \"Shall we be respited?\""
+  },
+  {
+    "id": "204",
+    "arabic": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+    "bangla": "তারা কি আমার শাস্তি দ্রুত কামনা করে?",
+    "english": "Do they then ask for Our Penalty to be hastened on?"
+  },
+  {
+    "id": "205",
+    "arabic": "أَفَرَأَيْتَ إِن مَّتَّعْنَاهُمْ سِنِينَ",
+    "bangla": "আপনি ভেবে দেখুন তো, যদি আমি তাদেরকে বছরের পর বছর ভোগ-বিলাস করতে দেই,",
+    "english": "Seest thou? If We do let them enjoy (this life) for a few years,"
+  },
+  {
+    "id": "206",
+    "arabic": "ثُمَّ جَاءَهُم مَّا كَانُوا يُوعَدُونَ",
+    "bangla": "অতঃপর যে বিষয়ে তাদেরকে ওয়াদা দেয়া হত, তা তাদের কাছে এসে পড়ে।",
+    "english": "Yet there comes to them at length the (Punishment) which they were promised!"
+  },
+  {
+    "id": "207",
+    "arabic": "مَا أَغْنَىٰ عَنْهُم مَّا كَانُوا يُمَتَّعُونَ",
+    "bangla": "তখন তাদের ভোগ বিলাস তা তাদের কি কোন উপকারে আসবে?",
+    "english": "It will profit them not that they enjoyed (this life)!"
+  },
+  {
+    "id": "208",
+    "arabic": "وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+    "bangla": "আমি কোন জনপদ ধ্বংস করিনি; কিন্তু এমতাবস্থায় যে, তারা সতর্ককারী ছিল।",
+    "english": "Never did We destroy a population, but had its warners -"
+  },
+  {
+    "id": "209",
+    "arabic": "ذِكْرَىٰ وَمَا كُنَّا ظَالِمِينَ",
+    "bangla": "স্মরণ করানোর জন্যে, এবং আমার কাজ অন্যায়াচরণ নয়।",
+    "english": "By way of reminder; and We never are unjust."
+  },
+  {
+    "id": "210",
+    "arabic": "وَمَا تَنَزَّلَتْ بِهِ الشَّيَاطِينُ",
+    "bangla": "এই কোরআন শয়তানরা অবতীর্ণ করেনি।",
+    "english": "No evil ones have brought down this (Revelation):"
+  },
+  {
+    "id": "211",
+    "arabic": "وَمَا يَنبَغِي لَهُمْ وَمَا يَسْتَطِيعُونَ",
+    "bangla": "তারা এ কাজের উপযুক্ত নয় এবং তারা এর সামর্থøও রাখে না।",
+    "english": "It would neither suit them nor would they be able (to produce it)."
+  },
+  {
+    "id": "212",
+    "arabic": "إِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُولُونَ",
+    "bangla": "তাদেরকে তো শ্রবণের জায়গা থেকে দূরে রাখা রয়েছে।",
+    "english": "Indeed they have been removed far from even (a chance of) hearing it."
+  },
+  {
+    "id": "213",
+    "arabic": "فَلَا تَدْعُ مَعَ اللَّهِ إِلَـٰهًا آخَرَ فَتَكُونَ مِنَ الْمُعَذَّبِينَ",
+    "bangla": "অতএব, আপনি আল্লাহর সাথে অন্য উপাস্যকে আহবান করবেন না। করলে শাস্তিতে পতিত হবেন।",
+    "english": "So call not on any other god with Allah, or thou wilt be among those under the Penalty."
+  },
+  {
+    "id": "214",
+    "arabic": "وَأَنذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ",
+    "bangla": "আপনি নিকটতম আত্মীয়দেরকে সতর্ক করে দিন।",
+    "english": "And admonish thy nearest kinsmen,"
+  },
+  {
+    "id": "215",
+    "arabic": "وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ",
+    "bangla": "এবং আপনার অনুসারী মুমিনদের প্রতি সদয় হোন।",
+    "english": "And lower thy wing to the Believers who follow thee."
+  },
+  {
+    "id": "216",
+    "arabic": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّي بَرِيءٌ مِّمَّا تَعْمَلُونَ",
+    "bangla": "যদি তারা আপনার অবাধ্য করে, তবে বলে দিন, তোমরা যা কর, তা থেকে আমি মুক্ত।",
+    "english": "Then if they disobey thee, say: \"I am free (of responsibility) for what ye do!\""
+  },
+  {
+    "id": "217",
+    "arabic": "وَتَوَكَّلْ عَلَى الْعَزِيزِ الرَّحِيمِ",
+    "bangla": "আপনি ভরসা করুন পরাক্রমশালী, পরম দয়ালুর উপর,",
+    "english": "And put thy trust on the Exalted in Might, the Merciful,-"
+  },
+  {
+    "id": "218",
+    "arabic": "الَّذِي يَرَاكَ حِينَ تَقُومُ",
+    "bangla": "যিনি আপনাকে দেখেন যখন আপনি নামাযে দন্ডায়মান হন,",
+    "english": "Who seeth thee standing forth (in prayer),"
+  },
+  {
+    "id": "219",
+    "arabic": "وَتَقَلُّبَكَ فِي السَّاجِدِينَ",
+    "bangla": "এবং নামাযীদের সাথে উঠাবসা করেন।",
+    "english": "And thy movements among those who prostrate themselves,"
+  },
+  {
+    "id": "220",
+    "arabic": "إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+    "bangla": "নিশ্চয় তিনি সর্বশ্রোতা, সর্বজ্ঞানী।",
+    "english": "For it is He Who heareth and knoweth all things."
+  },
+  {
+    "id": "221",
+    "arabic": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ الشَّيَاطِينُ",
+    "bangla": "আমি আপনাকে বলব কি কার নিকট শয়তানরা অবতরণ করে?",
+    "english": "Shall I inform you, (O people!), on whom it is that the evil ones descend?"
+  },
+  {
+    "id": "222",
+    "arabic": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ",
+    "bangla": "তারা অবতীর্ণ হয় প্রত্যেক মিথ্যাবাদী, গোনাহগারের উপর।",
+    "english": "They descend on every lying, wicked person,"
+  },
+  {
+    "id": "223",
+    "arabic": "يُلْقُونَ السَّمْعَ وَأَكْثَرُهُمْ كَاذِبُونَ",
+    "bangla": "তারা শ্রুত কথা এনে দেয় এবং তাদের অধিকাংশই মিথ্যাবাদী।",
+    "english": "(Into whose ears) they pour hearsay vanities, and most of them are liars."
+  },
+  {
+    "id": "224",
+    "arabic": "وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ",
+    "bangla": "বিভ্রান্ত লোকেরাই কবিদের অনুসরণ করে।",
+    "english": "And the Poets,- It is those straying in Evil, who follow them:"
+  },
+  {
+    "id": "225",
+    "arabic": "أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ",
+    "bangla": "তুমি কি দেখ না যে, তারা প্রতি ময়দানেই উদভ্রান্ত হয়ে ফিরে?",
+    "english": "Seest thou not that they wander distracted in every valley?-"
+  },
+  {
+    "id": "226",
+    "arabic": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
+    "bangla": "এবং এমন কথা বলে, যা তারা করে না।",
+    "english": "And that they say what they practise not?-"
+  },
+  {
+    "id": "227",
+    "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ كَثِيرًا وَانتَصَرُوا مِن بَعْدِ مَا ظُلِمُوا ۗ وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنقَلَبٍ يَنقَلِبُونَ",
+    "bangla": "তবে তাদের কথা ভিন্ন, যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে এবং আল্লাহ কে খুব স্মরণ করে এবং নিপীড়িত হওয়ার পর প্রতিশোধ গ্রহণ করে। নিপীড়নকারীরা শীঘ্রই জানতে পারবে তাদের গন্তব্যস্থল কিরূপ।",
+    "english": "Except those who believe, work righteousness, engage much in the remembrance of Allah, and defend themselves only after they are unjustly attacked. And soon will the unjust assailants know what vicissitudes their affairs will take!"
+  }
+]

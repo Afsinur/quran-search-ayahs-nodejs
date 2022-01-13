@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/enStyle.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/selectors_.js"></script>
+    <script src="js/progressBAR_FTC.js" defer></script>
+    <script src="js/app.js" defer></script>
+  </head>
+  <body>
+    <div class="app">
+      <div class="settings_div fd-y fy-x-c fy-y-c">
+        <div class="fd-y fy-x-c fy-y-c">
+          <div class="settings_div_child_0">
+            <h3>Settings</h3>
+          </div>
+
+          <div class="settings_div_child_2">
+            <label for="filter_1">Search surah no:</label>
+            <select name="selectFilter" id="filter_1">
+              <option value="0">All</option>
+            </select>
+          </div>
+
+          <div class="settings_div_child_1 fd-y fy-x-c fy-y-c">
+            <label class="fd-x" for="filter_"
+              >Ayah's words filter accuracy:</label
+            >
+
+            <p class="fd-x fx-x-c fy-x-c">
+              <input type="range" name="filter_range" id="filter_" />
+
+              &NonBreakingSpace;
+
+              <span id="showPERCENT"></span>
+            </p>
+          </div>
+
+          <div class="settings_div_child_3 fd-y fy-x-c fy-y-c">
+            <label class="fd-x" for="filter_2">Search speed:</label>
+
+            <p class="fd-x fx-x-c fy-x-c">
+              <input type="range" name="filter_range_2" id="filter_2" />
+
+              &NonBreakingSpace;
+
+              <span id="showPERCENT_1"></span>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="search fd-x">
+        <div class="settings_Gear">
+          <div class="singgle_gear_tooth"></div>
+          <div class="singgle_gear_tooth tooth_1"></div>
+          <div class="singgle_gear_tooth tooth_2"></div>
+
+          <div class="middle_circle_1"></div>
+          <div class="middle_circle_2"></div>
+        </div>
+
+        <form class="searchForm fd-x">
+          <div>
+            <input
+              type="text"
+              id="ayahNoId"
+              name="ayahNo"
+              placeholder="1 / 1,4,8 / ayah's words"
+            />
+          </div>
+
+          <div>
+            <input id="find_" type="submit" value="Find" />
+          </div>
+
+          <div class="searchIcon_container fd-x fx-x-c fx-y-c">
+            <div class="search_icon">
+              <div class="circle_1"></div>
+              <div class="bar_1"></div>
+            </div>
+          </div>
+        </form>
+
+        <div class="stopBTNdiv">
+          <button class="stopBTN">Stop</button>
+        </div>
+      </div>
+
+      <div class="searchComplete fd-x fx-x-c fx-y-c"></div>
+
+      <div class="result"></div>
+
+      <div class="cpy_alert">Copied to clipboard (!)</div>
+    </div>
+  </body>
+</html>
